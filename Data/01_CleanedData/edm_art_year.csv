@@ -1,0 +1,561 @@
+"Article","Year"
+"EDM 2019 - Proceedings of the 12th International Conference on Educational Data Mining",2019
+"Preface",2019
+"Students' use of support functions in DBAs: Analysis of NAEP grade 8 mathematics process data",2019
+"A methodology for student video interaction patterns analysis and classification",2019
+"Evaluating fairness and generalizability in models predicting on-time graduation from college applications",2019
+"Predicting student academic outcomes in UK secondary phase education: An architecture for machine learning and user interaction",2019
+"Academic performance estimation with attention-based graph convolutional networks",2019
+"Generalizability of sensor-free affect detection models in a longitudinal dataset of tens of thousands of students",2019
+"Rank-based tensor factorization for student performance prediction",2019
+"Beyond autoscoring: Extracting conceptual connections from essays for classroom instruction",2019
+"A comparison of automated scale short form selection strategies",2019
+"Machine-learned school dropout early warning at Scale",2019
+"Second LABBEC workshop: Learning analytics, building bridges between the education and the computing communities",2019
+"Generalizing expert misconception diagnoses through common wrong answer embedding",2019
+"Studying factors influencing the prediction of student STEM and non-STEM career choice",2019
+"Detecting creativity in an open ended geometry environment",2019
+"It's a match! Reciprocal recommender system for graduating students and jobs",2019
+"Optimizing assignment of students to courses based on learning activity analytics",2019
+"Probabilistic modeling of peer correction and peer assessment",2019
+"Identifying collaborative learning states using unsupervised machine learning on eye-tracking, physiological and motion sensor data",2019
+"Individual differences in student learning aid usage",2019
+"Machine-learned or expert-engineered features? Exploring feature engineering methods in detectors of student behavior and affect",2019
+"Machine learning based decision support system for categorizing MOOC discussion forum posts",2019
+"Clustering students based on their prior knowledge",2019
+"Towards the prediction of semantic complexity based on concept graphs",2019
+"Validating the myth of average through evidences",2019
+"Sparse neural attentive knowledge-based models for grade prediction",2019
+"Grades are not normal: Improving exam score models using the logit-normal distribution",2019
+"Towards modeling students' problem-solving skills in non-routine mathematics problems",2019
+"Reinforcement learning for educational data mining workshop (RL-EDM 2019)",2019
+"Skills embeddings: A neural approach to multicomponent representations of students and tasks",2019
+"Active learning for student affect detection",2019
+"Balancing student success and inferring personalized effects in dynamic experiments",2019
+"Learning feature analysis for quality improvement of web-based teaching materials using mouse cursor tracking",2019
+"Modeling and experimental design for MOOC dropout prediction: A replication perspective",2019
+"Causal discovery with tetrad in LearnSphere's tigris",2019
+"Using latent variable models to observe academic pathways",2019
+"Hello? Who is posting, who is answering, and who is succeeding in Massive Open Online Courses",2019
+"Techniques for automatically evaluating machine-generated questions",2019
+"Shedding light on the automated essay scoring process",2019
+"Active learning of strict partial orders: A case study on concept prerequisite relations",2019
+"Design and evaluation of a semantic indicator for automatically supporting programming learning",2019
+"Adding duration-based quality labels to learning events for improved description of students' online learning behavior",2019
+"Leveraging deep reinforcement learning for pedagogical policy induction in an intelligent tutoring system",2019
+"Affect detection in home-based educational software for young children",2019
+"ATC framework: A fully automatic cognitive tracing model for student and educational contents",2019
+"Assessing student response in tutorial dialogue context using probabilistic soft logic",2019
+"Augmenting transcripts with natural language processing and multimodal data",2019
+"How should online teachers of English as a Foreign Language (EFL) write feedback to students?",2019
+"What you say is relevant to how you make friends: Measuring the effect of content on social connection",2019
+"Automatic identification of questions in MOOC forums and association with self-regulated learning",2019
+"What will you do next? A sequence analysis on the student transitions between online platforms in blended courses",2019
+"EDM & games: Leveling up engaged learning with data-rich analytics",2019
+"Predicting the quality of collaborative problem solving through linguistic analysis of discourse",2019
+"Parent as a companion for solving challenging math problems: Insights from multi-modal observational data",2019
+"Toward near zero-parameter prediction using a computational model of student learning",2019
+"Design of an elective course recommendation system for university environment",2019
+"A data-driven approach for automated assessment of scientific explanations in science inquiry",2019
+"Tutorbot corpus: Evidence of human-agent verbal alignment in second language learner dialogues",2019
+"A novel use of educational data mining to inform effective management of academic programs",2019
+"Predictors of student satisfaction: A large-scale study of human-human online tutorial dialogues",2019
+"Assessing the fairness of graduation predictions",2019
+"Early detection of wheel spinning: Comparison across tutors, models, features, and operationalizations",2019
+"A better cold-start for early prediction of student at-risk status in new school districts",2019
+"Concept-aware deep knowledge tracing and exercise recommendation in an online learning system",2019
+"Deep hierarchical knowledge tracing",2019
+"Predicting student dropout in higher education based on previous exam results",2019
+"Content-based course recommender system for liberal arts education",2019
+"Identifying bias and underlying knowledge structures in Brazilian National exam of students performance",2019
+"Affective state prediction in a mobile setting using wearable biometric sensors and stylus",2019
+"Utterance-level modeling of indicators of engaging classroom discourse",2019
+"Hǎo Fāyīn: Developing automated audio assessment tools for a Chinese language course",2019
+"Staying in the zone: Sequencing content in classrooms based on the zone of proximal development",2019
+"A human-machine hybrid peer grading framework for SPOCs",2019
+"Collaborative problem-solving process in a science serious game: Exploring group action similarity trajectory",2019
+"Identifying critical pedagogical decisions through adversarial deep reinforcement learning",2019
+"Modeling student performance and disengagement using decomposition of response time data",2019
+"Measuring students' thermal comfort and its impact on learning",2019
+"Measuring item teaching value in an online learning environment",2019
+"Deep-IRT: Make deep learning based knowledge tracing explainable using item response theory",2019
+"Tutorial proposal: Designing and developing open, pedagogically-based predictive models using the moodle analytics API",2019
+"Sharing and reusing data and analytic methods with LearnSphere",2019
+"Implicit and explicit emotions in MOOCs",2019
+"Grading emails and generating feedback",2019
+"Mining university registrar records to predict first-year undergraduate attrition",2019
+"Incorporating prior practice difficulty into performance factors analysis to model Mandarin tone learning",2019
+"A comparative analysis of emotional words for learning effectiveness in online education",2019
+"Improving peer assessment accuracy by incorporating relative peer grades",2019
+"Characterising students' writing processes using temporal keystroke analysis",2019
+"Detecting outlier behaviors in student progress trajectories using a repeated fuzzy clustering approach",2019
+"Investigating writing style development in high school",2019
+"Supporting minority student success by using machine learning to identify at-risk students",2019
+"Visualizing learning performance data and model predictions as objects in a 3D space",2019
+"N-gram graphs for topic extraction in educational forums",2019
+"Exploring the link between motivations and gaming",2019
+"Visualization and clustering of learner pathways in an interactive online learning environment",2019
+"Toward data-driven example feedback for novice programming",2019
+"A generalizable performance evaluation model of driving games via risk-weighted trajectories",2019
+"Collaboration analysis using object detection",2019
+"Design and deployment of a better university course search: Inferring latent",2019
+"Kappa learning: A new item-similarity method for clustering educational items from response data",2019
+"Binary Q-matrix learning with dAFM",2019
+"Using a glicko-based algorithm to measure in-course learning",2019
+"Application of Hidden Markov models to quantify the impact of enrollment patterns on student performance",2019
+"Accurate modelling of language learning tasks and students using representations of grammatical proficiency",2019
+"Exploring neural network models for the classification of students in highly interactive environments",2019
+"Modelling end-of-session actions in educational systems",2019
+"Anatomy of mobile learners: Using learning analytics to unveil learning in presence of mobile devices",2019
+"Exploring stealth assessment via deep learning in an open-ended virtual environment",2019
+"Investigating error resolution processes in C programming exercise courses",2019
+"Detecting suggestions in peer assessments",2019
+"Towards discovering problem similarity through deep learning: Combining problem features and user behavior",2019
+"A self-attentive model for knowledge tracing",2019
+"Modeling person-specific development of math skills in continuous time: New evidence for mutualism",2019
+"The guided team-partitioning problem: Definition, complexity, and algorithm",2019
+"Smart learning object recommendations based on time-dependent learning need models",2019
+"A meta-learning augmented bidirectional transformer model for automatic short answer grading",2019
+"Investigating effects of considering mobile and desktop learning data on predictive power of learning management system (LMS) features on student success",2019
+"Planning gamification strategies based on user characteristics and DM: A gender-based case study",2019
+"Teacher vs. Algorithm: Double-blind experiment of content sequencing in mathematics",2019
+"The influence of school demographics on the relationship between students' help-seeking behavior and performance and motivational measures",2019
+"Detecting wheel-spinning and productive persistence in educational games",2019
+"Gender differences in work-integrated learning assessments",2019
+"Student knowledge diagnosis on response data via the model of sparse factor learning",2019
+"Categorizing students' questions using an ensemble hybrid approach",2019
+"Why deep knowledge tracing has less depth than anticipated",2019
+"Using knowledge component modeling to increase domain understanding in a digital learning game",2019
+"Predicting early and often: Predictive student modeling for block-based programming environments",2019
+"One minute is enough: Early prediction of student success and event-level difficulty during a novice programming task",2019
+"Hybrid deep neural networks to predict socio-moral reasoning skills",2019
+"DAS3H: Modeling student learning and forgetting for optimally scheduling distributed practice of skills",2019
+"A multivariate Elo-based learner model for adaptive educational systems",2019
+"Do learners know what's good for them? Crowdsourcing subjective ratings of OERs to predict learning gains",2019
+"Success prediction in MOOCs: A case study",2019
+"Toward instrumenting makerspaces: Using motion sensors to capture students' affective states in open-ended learning environments",2019
+"Filtering non-relevant short answers in peer learning applications",2019
+"Grade prediction based on cumulative knowledge and co-taken courses",2019
+"Scholars walk: A Markov chain framework for course recommendation",2019
+"Time-series insights into the process of passing or failing online university courses using neural-induced interpretable student states",2019
+"Towards a general purpose anomaly detection method to identify cheaters in massive open online courses",2019
+"Student performance prediction by discovering inter-activity relations",2018
+"Identifying profiles of collaborative problem solvers in an online electronics environment",2018
+"GritNet: Student performance prediction with deep learning",2018
+"LeCore: A Framework for Modeling Learner’s preference",2018
+"Your actions or your associates? Predicting certification and dropout in MOOCs with behavioral and social features",2018
+"Predictive student modeling for interventions in online classes",2018
+"Principles for assessing adaptive online courses",2018
+"Re-designing the structure of online courses to empower educational data mining",2018
+"Studying affect dynamics and chronometry using sensor-free detectors",2018
+"Predicting individualized learner models across tutor lessons",2018
+"Contextual derivation of stable BKT parameters for analyzing content efficacy",2018
+"Predicting learning by analyzing eye-gaze data of reading behavior",2018
+"Forgetting curves and testing effect in an adaptive learning and assessment system",2018
+"Machine beats human at sequencing visuals for perceptual-fluency practice",2018
+"What can we learn from college students’ network transactions? Constructing useful features for student success prediction",2018
+"Tracking behavioral patterns among students in an online educational system",2018
+"Automated speech act categorization of chat utterances in virtual internships",2018
+"Is the doer effect robust across multiple data sets?",2018
+"Mining MOOC lecture transcripts to construct concept dependency graphs",2018
+"A Comparison of Features for the Automatic Labeling of Student Answers to Open-ended Questions",2018
+"Quantyler: Apportioning credit for student forum participation",2018
+"Standard error considerations on AFM parameters",2018
+"Document chunking and learning objective generation for instruction design",2018
+"Who they are and what they want: Understanding the reasons for MOOC enrollment",2018
+"Predicting student enrollment based on student and college characteristics",2018
+"Knowledge tracing using the brain",2018
+"Exploring collaboration using motion sensors and multi-modal learning analytics",2018
+"Job description mining to understand work-integrated learning",2018
+"Predicting quitting in students playing a learning game",2018
+"Modeling math identity and math success through sentiment analysis and linguistic features",2018
+"Predicting student performance based on online study habits: A study of blended courses",2018
+"Using big data to sharpen design-based inference in A/B tests",2018
+"Data-driven approach towards a personalized curriculum",2018
+"Proceedings of the 11th International Conference on Educational Data Mining, EDM 2018",2018
+"Preface",2018
+"Finding topics in enrollment data",2018
+"An open vocabulary approach for estimating teacher use of authentic questions in classroom discourse",2018
+"Improving stealth assessment in game-based learning with LSTM-based analytics",2018
+"Impact of corpus size and dimensionality of LSA spaces from Wikipedia articles on autotutor answer evaluation",2018
+"Understanding student procrastination via mixture models",2018
+"Intelligent instructional hand offs",2018
+"Behavioral analysis at scale: Learning course prerequisite structures from learner clickstreams",2018
+"Filtered time series analyses of student problem-solving behaviors in game-based learning",2018
+"A hybrid multi-criteria approach using a genetic algorithm for recommending courses to university students",2018
+"Accurate measurement of lexical sophistication with reference to ESL learner data",2018
+"Using student logs to build Bayesian models of student knowledge and skills",2018
+"Using a common sense knowledge base to auto generate multi-dimensional vocabulary assessments",2018
+"ELBA: Exceptional learning behavior analysis",2018
+"Clustering the learning patterns of adults with low literacy skills interacting with an intelligent tutoring system",2018
+"An empirical research on identifiability and Q-matrix design for DINA model",2018
+"Towards a model-free estimate of the limits to student modeling accuracy",2018
+"Feature extraction for classifying students based on their academic performance",2018
+"Modeling hint-taking behavior and knowledge state of students with multi-task learning",2018
+"Mining user trajectories in electronic text books",2018
+"Gender differences in undergraduate engineering applicants: A text mining approach",2018
+"Understanding learners’ opinion about participation certificates in online courses using topic modeling",2018
+"Constructing cognitive profiles for simulation-based hiring assessments",2018
+"Identifying user engagement patterns in an online video discussion platform",2018
+"Who are they looking at? Automatic eye gaze following for classroom observation video analysis",2018
+"The influence of task activity and the learner’s personal characteristics on self-confidence during an online explanation activity with a conversational agent",2018
+"Prediction of academic achievement based on digital campus",2018
+"Analyzing the relative learning benefits of completing required activities and optional readings in online courses",2018
+"Estimating the treatment effect of new device deployment on uruguayan students’ online learning activity",2018
+"How many friends can you make in a week?: Evolving social relationships in MOOCs over time",2018
+"Mining student misconceptions from pre- and post-test data",2018
+"Can textbook annotations serve as an early predictor of student learning?",2018
+"Modeling the effects of students’ interactions with immersive simulations using Markov switching systems",2018
+"Does deep knowledge tracing model interactions among skills?",2018
+"Proceedings of the 10th International Conference on Educational Data Mining, EDM 2017",2017
+"Preface",2017
+"Identifying student communities in blended courses",2017
+"Riple: Recommendation in peer-learning environments based on knowledge gaps and interests",2017
+"Cluster analysis of real time location data - An application of Gaussian mixture models",2017
+"Dropout prediction in home care training",2017
+"Personalized feedback for open-response mathematical questions using long short-term memory networks",2017
+"Online learning persistence and academic achievement",2017
+"On the prevalence of multiple-account cheating in massive open online learning",2017
+"Improving models of peer grading in SPoC",2017
+"Tutorial: Principal stratification for EDM experiments",2017
+"Tutorial: Why data standards are critical for EDM and AIED",2017
+"An LDA topic model and social network analysis of a school blogging platform",2017
+"Sequence modelling for analysing student interaction with educational systems",2017
+"Mining innovative augmented graph grammars for argument diagrams through novelty selection",2017
+"Zone out no more: Mitigating mind wandering during computerized reading",2017
+"Whitebox: A device to assist group work evaluation",2017
+"A prediction and early alert model using learning management system data and grounded in learning science theory",2017
+"An analysis of students’ questions in MOOCs forums",2017
+"Grade prediction with temporal course-wise influence",2017
+"The reading ability of college freshmen",2017
+"Identifying relationships between students’ questions type and their behavior",2017
+"Modeling MOOC student behavior with two-layer hidden Markov models",2017
+"Short-answer responses to STEM exercises: Measuring response validity and its impact on learning",2017
+"Development of a trajectory model for visualizing teacher ICT usage based on event segmentation data",2017
+"Untangling the program name versus the curriculum: An investigation of titles and curriculum content",2017
+"Using a single model trained across multiple experiments to improve the detection of treatment effects",2017
+"On the influence on learning of student compliance with prompts fostering self-regulated learning",2017
+"Student use of inquiry simulations in middle school science",2017
+"Text analysis with LIWC and coh-metrix: Portraying MOOCs instructors",2017
+"Behavior-based latent variable model for learner engagement",2017
+"Workshop on deep learning with educational data",2017
+"Understanding student’s reviewing and reflection behaviors using web-based programming grading assistant",2017
+"A latent factor model for instructor content preference analysis",2017
+"Developing Chinese automated essay scoring model to assess college students’ essay quality",2017
+"Real-time programming exercise feedback in MOOCs",2017
+"Intelligent composition of test papers based on MOOC learning data",2017
+"Data-mining textual responses to uncover misconception patterns",2017
+"An offline evaluation method for individual treatment rules and how to find heterogeneous treatment effect",2017
+"Causal forest vs. naïve causal forest in detecting personalization: An empirical study in ASSISTments",2017
+"Predicting performance in a small private online course",2017
+"Tracking online reading of college students",2017
+"Modeling network dynamics of MOOC discussion interactions at scale",2017
+"A framework for the estimation of students’ programming abilities",2017
+"Teaching informal logical fallacy identification with a cognitive tutor",2017
+"Student use of scaffolded inquiry simulations in middle school science",2017
+"Making the grade: How learner engagement changes after passing a course",2017
+"Automatic scoring method for descriptive test using recurrent neural network",2017
+"Modeling dormitory occupancy using Markov chains",2017
+"Intelligent argument grading system for student-produced argument diagrams",2017
+"Towards automatic classification of learning objects: Reducing the number of used features",2017
+"Toward replicable predictive model evaluation in MOOCs",2017
+"Discovering skill prerequisite structure through Bayesian estimation and nested model comparison",2017
+"Supporting the encouragement of forum participation",2017
+"Learning to represent student knowledge on programming exercises using deep learning",2017
+"Evaluation of a data-driven feedback algorithm for open-ended programming",2017
+"Modeling classifiers for virtual internships without participant data",2017
+"Emerging patterns in student’s learning attributes through text mining",2017
+"Predicting short- and long-term vocabulary learning via semantic features of partial word knowledge",2017
+"Mycos intelligent teaching assistant",2017
+"Using Graph-based Modelling to explore changes in students’ affective states during exploratory learning tasks",2017
+"Towards closing the loop: Bridging machine-induced pedagogical policies to learning theories",2017
+"A neural network approach to estimate student skill mastery in cognitive diagnostic assessments",2017
+"Student learning strategies and behaviors to predict success in an online adaptive mathematics tutoring system",2017
+"Metacognitive prompt overdose: Positive and negative effects of prompts in iSTART",2017
+"Social work in the classroom? A tool to evaluate topical relevance in student writing",2017
+"Few hundred parameters outperform few hundred thousand?",2017
+"Using an additive factor model and performance factor analysis to assess learning gains in a tutoring system to help adults with reading difficulties",2017
+"An effective framework for automatically generating and ranking topics in MOOC videos",2017
+"Estimating individual treatment effect from educational studies with residual counterfactual networks",2017
+"Application of the dynamic time warping distance for the student drop-out prediction on time series data",2017
+"Learner affect through the looking glass: Characterization and detection of confusion in online courses",2017
+"Assessing computer literacy of adults with low literacy skills",2017
+"Combining machine learning and natural language processing to assess literary text comprehension",2017
+"Adaptive Sequential Recommendation for Discussion Forums on MOOCs using Context Trees",2017
+"Can typical behaviors identified in MOOCs be discovered in other courses?",2017
+"Addressing student behavior and affect with empathy and growth mindset",2017
+"Grouping students for maximizing learning from peers",2017
+"Automated assessment for scientific explanations in on-line science inquiry",2017
+"Predicting student retention from behavior in an online orientation course",2017
+"Using temporal association rule mining to predict dyadic rapport in peer tutoring",2017
+"Assessing the dialogic properties of classroom discourse: Proportion models for imbalanced classes",2017
+"Inferring frequently asked questions from student question answering forums",2017
+"Tell me more: Digital eyes to the physical world for early childhood learning",2017
+"Toward the automatic labeling of course questions for ensuring their alignment with learning outcomes",2017
+"Exploring the relationship between student pre-knowledge and engagement in MOOCs using polytomous IRT",2017
+"Characterizing collaboration in the pair program tracing and debugging eye-tracking experiment: A preliminary analysis",2017
+"The misidentified identifiability problem of Bayesian knowledge tracing",2017
+"Towards reliable and valid measurement of individualized student parameters",2017
+"Task and timing: Separating procedural and tactical knowledge in student models",2017
+"Gaze-based detection of mind wandering during lecture viewing",2017
+"Convolutional neural network for automatic detection of sociomoral reasoning level",2017
+"Measuring similarity of educational items using data on learners’ performance",2017
+"Modeling wheel-spinning and productive persistence in skill builders",2017
+"When and who at risk? Call back at these critical points",2017
+"Linking language to math success in an on-line course",2017
+"An extended learner modeling method to assess students’ learning behaviors",2017
+"Adaptive assessment experiment in a harvardx MOOC",2017
+"Analysis of problem-solving behavior in open-ended scientific-discovery game challenges",2017
+"Studying MOOC completion at scale using the MOOC replication framework",2017
+"Efficient feature embeddings for student classification with variational auto-encoders",2017
+"Predicting prospective peer helpers to provide just-in-time help to users in question and answer forums",2017
+"Clustering student sequential trajectories using dynamic time warping",2017
+"Automatic peer tutor matching: Data-driven methods to enable new opportunities for help",2017
+"Epistemic network analysis and topic modeling for chat data from collaborative learning environment",2017
+"Graph-based Educational Data Mining (G-EDM 2017)",2017
+"Dropout Prediction in MOOCs using Learners’ Study Habits Features",2017
+"Clustering students in assistments: Exploring system- and school-level traits to advance personalization",2017
+"The antecedents of and associations with elective replay in an educational game: Is replay worth it?",2017
+"Modeling the zone of proximal development with a computational approach",2017
+"Transactivity as a predictor of future collaborative knowledge integration in team-based learning in online courses",2016
+"Preface",2016
+"Proceedings of the 9th International Conference on Educational Data Mining, EDM 2016",2016
+"Identifying relevant user behavior, predicting learning, and persistence in an ITS-based afterschool program",2016
+"Investigating gender differences on homework in middle school mathematics",2016
+"Computing pointers into instructional videos",2016
+"Modeling interactions across skills: A method to construct and compare models predicting the existence of skill relationships",2016
+"A platform for integrating and analyzing data to evaluate the impacts of educational technologies",2016
+"Designing interactive and personalized concept mapping learning environments",2016
+"Aim low: Correlation-based Feature Selection for model-based reinforcement learning",2016
+"An automated test of motor skills for job selection and feedback",2016
+"Personalization of learning paths in online communities of creators",2016
+"Studying assignment size and student performance using propensity score matching",2016
+"Comparison of selection criteria for multi-feature hierarchical activity mining in open ended learning environments",2016
+"Automated feedback on group processes: An experience report",2016
+"Estimation of prerequisite skills model from large scale assessment data using semantic data mining",2016
+"Meta-learning for predicting the best vote aggregation method: Case study in collaborative searching of LOs",2016
+"Identifying student behaviors early in the term for improving online course performance",2016
+"Predicting performance on MOOC assessments using multi-regression models",2016
+"Exploring the impact of data-driven tutoring methods on students’ demonstrative knowledge in logic problem solving",2016
+"Validating game-based measures of implicit science learning",2016
+"Time series analysis of VLE activity data",2016
+"Mining sequences of gameplay for embedded assessment in collaborative learning",2016
+"Discovering ‘tough love’ interventions despite dropout",2016
+"Predicting off-task behaviors in an adaptive vocabulary learning system",2016
+"Massively scalable EDM with Spark",2016
+"Automatic gaze-based detection of mind wandering during narrative film comprehension",2016
+"Guiding students towards frequent high-utility paths in an ill-defined domain",2016
+"Perfect scores indicate good students !? The case of one hundred percenters in a math learning system",2016
+"A comparative analysis of techniques for predicting student performance",2016
+"How employment constrains participation in MOOCs?",2016
+"Exploring social influence on the usage of resources in an online learning community",2016
+"SAS tools for educational data mining",2016
+"Validating automated triggers and notifications @ scale in blackboard learn",2016
+"Predicting dialogue acts for intelligent virtual agents with multimodal student interaction data",2016
+"Generating semantic concept map for MOOCs",2016
+"Pattern mining uncovers social prompts of conceptual learning with physical and virtual representations",2016
+"Towards modeling chunks in a knowledge tracing framework for students’ deep learning",2016
+"Examining the necessity of problem diagrams using MOOC AB experiments",2016
+"Semantic features of math problems: Relationships to student learning and engagement",2016
+"A scalable learning analytics platform for automated writing feedback",2016
+"Toward automated support for teacher-facilitated formative feedback on student writing",2016
+"Quantifying how students use an online learning system: A focus on transitions and performance",2016
+"Using case-based reasoning to automatically generate high-quality feedback for programming exercises",2016
+"TutorSpace: Content-centric platform for enabling blended learning in developing countries",2016
+"Learning curves for problems with multiple knowledge components",2016
+"Time Series Cross Section method for monitoring students’ page views of course materials and improving classroom teaching",2016
+"Novel features for capturing cooccurrence behavior in dyadic collaborative problem solving tasks",2016
+"Analysing and refining pilot training",2016
+"Document segmentation for labeling with academic learning objectives",2016
+"Learning curves versus problem difficulty: An analysis of the knowledge component picture for a given context",2016
+"Applicability of educational data mining in Afghanistan: Opportunities and challenges",2016
+"Patterns of usage from educational technology products across America",2016
+"A nonlinear state space model for identifying at-risk students in open online courses",2016
+"Enabling people to harness and control EDM for lifelong, life-wide learning",2016
+"An ensemble method to predict student performance in an online math learning environment",2016
+"Assessing student-generated design justifications in engineering virtual internships",2016
+"How to model implicit knowledge? Similarity learning methods to assess perceptions of visual representations",2016
+"Preliminary results on dialogue act classification in chat-based online tutorial dialogues",2016
+"Effect of student ability and question difficulty on duration",2016
+"Individualizing Bayesian knowledge tracing. Are skill parameters more important than student parameters?",2016
+"Towards integrating human and automated tutoring systems",2016
+"How quickly can wheel spinning be detected?",2016
+"Browsing-pattern mining from e-book logs with non-negative matrix factorization",2016
+"Expediting support for social learning with behavior modeling",2016
+"Equity of learning opportunities in the Chicago City of learning program",2016
+"Seeking programming-related information from large scaled discussion forums, help or harm?",2016
+"Extracting measures of active learning and student self-regulated learning strategies from MOOC data",2016
+"Modeling visitor behavior in a game-based engineering museum exhibit with hidden Markov models",2016
+"MATHia X: The next generation cognitive tutor",2016
+"Study on automatic scoring of descriptive type tests using text similarity calculations",2016
+"Dynamics of peer grading: An empirical study",2016
+"Execution traces as a powerful data representation for intelligent tutoring systems for programming",2016
+"Classifying behavior to elucidate elegant problem solving in an educational game",2016
+"On competition for undergraduate co-op placements: A graph mining approach",2016
+"LIVELINET: A multimodal deep recurrent neural network to predict liveliness in educational videos",2016
+"Measuring gameplay affordances of user-generated content in an educational game",2016
+"A data-driven framework of modeling skill combinations for deeper knowledge tracing",2016
+"Semi-automatic detection of teacher questions from human-transcripts of audio in live classrooms",2016
+"Exploring learning management system interaction data: Combining Data-driven and Theory-driven Approaches",2016
+"Redefining “what” in analyses of who does what in MOOCs",2016
+"A coupled user clustering algorithm for web-based learning systems",2016
+"Understanding engagement in MOOCs",2016
+"Can word probabilities from LDA be simply added up to represent documents?",2016
+"Toward revision-sensitive feedback in automated writing evaluation",2016
+"Predicting STEM achievement with learning management system data: Prediction modeling and a test of an early warning system",2016
+"Back to the basics: Bayesian extensions of IRT outperform neural networks for proficiency estimation",2016
+"Properties and applications of wrong answers in online educational systems",2016
+"A comparison of automatic teaching strategies for heterogeneous student populations",2016
+"Adding eye-tracking AOI data to models of representation skills does not improve prediction accuracy",2016
+"Investigating swarm intelligence for performance prediction∗",2016
+"Predicting student grades from online, collaborative social learning metrics using K-NN",2016
+"Student Emotion, Co-occurrence, and Dropout in a MOOC Context",2016
+"Data-driven automated induction of prerequisite structure graphs",2016
+"Riding an emotional roller-coaster: A multimodal study of young child’s math problem solving activities ∗",2016
+"Deep learning + student modeling + clustering: A recipe for effective automatic short answer grading",2016
+"Exploring and following students' strategies when completing their weekly tasks",2016
+"The apprentice learner architecture: Closing the loop between learning theory and educational data",2016
+"Mining behaviours of students in autograding submission system logs",2016
+"Acting the same differently: A cross-course comparison of user behavior in MOOCs",2016
+"Using inverse planning for personalized feedback",2016
+"Modeling the influence of format and depth during effortful retrieval practice",2016
+"Tensor factorization for student modeling and performance prediction in unstructured domain",2016
+"Predicting student progress from peer-assessment data",2016
+"Student usage predicts treatment effect heterogeneity in the cognitive tutor algebra I program",2016
+"How to judge learning on online learning minimum learning judgment system",2016
+"Semi-Markov model for simulating MOOC students",2016
+"Does a peer recommender foster students’ engagement in MOOCs?",2016
+"On generalizability of MOOC models",2016
+"Going deeper with deep knowledge tracing",2016
+"Calibrated self-assessment",2016
+"Course content analysis: An initiative step toward learning object recommendation systems for MOOC learners",2016
+"Sequence matters, but how exactly? A method for evaluating activity sequences from data",2016
+"Closing the loop with quantitative cognitive task analysis",2016
+"Unnatural feature engineering: Evolving augmented graph grammars for argument diagrams",2016
+"Course enrollment recommender system",2016
+"The affective impact of tutor questions: Predicting frustration and engagement",2016
+"Generating data-driven hints for open-ended programming",2016
+"Robust predictive models on MOOCs: Transferring knowledge across courses",2016
+"How deep is knowledge tracing?",2016
+"Joint discovery of skill prerequisite graphs and student models",2016
+"Collaborative Problem Solving Skills versus Collaboration Outcomes: Findings from statistical analysis and data mining",2016
+"Web as a textbook: Curating targeted learning paths through the heterogeneous learning resources on the web",2016
+"{ENTER}ing the time series {SPACE}: Uncovering the writing process through keystroke analyses",2016
+"A contextual bandits framework for personalized learning action selection",2016
+"Hierarchical cluster analysis heatmaps and pattern analysis: An approach for visualizing learning management system interaction data",2016
+"Stimulating collaborative activity in online social learning environments with Markov decision processes",2016
+"Automatic assessment of constructed response data in a chemistry tutor",2016
+"How good is popularity? Summary grading in crowdsourcing",2016
+"Towards the understanding of gestures and vocalization coordination in teaching context",2016
+"Beyond log files: Using multi-modal data streams towards data-driven KC model improvement",2016
+"Soft clustering of physics misconceptions using a mixed membership model",2016
+"Text classification of student self-explanations in college physics questions",2016
+"Investigating difficult topics in a data structures course using item response theory and logged data analysis",2016
+"MOOC learner behaviors by country and culture; An exploratory analysis",2016
+"The eyes have it: Gaze-based Detection of Mind Wandering during Learning with an Intelligent Tutoring System",2016
+"Gauging MOOC learners’ adherence to the designed learning path",2016
+"Hint availability slows completion times in summer work",2016
+"Topic-wise classification of MOOC discussions: A visual analytics approach",2016
+"Modelling the way: Using action sequence archetypes to differentiate learning pathways from learning outcomes",2016
+"Choosing versus Receiving Feedback: The impact of feedback valence on learning in an assessment game",2016
+"Temporally coherent clustering of student data",2016
+"Predicting post-test performance from online student behavior: A high school MOOC case study",2016
+"Boosted decision tree for Q-matrix refinement",2016
+"InVis: An interactive visualization tool for exploring interaction networks",2013
+"Analysing engineering expertise of high school students using eye tracking and multimodal learning analytics",2013
+"Unsupervised classification of student dialogue acts with query-likelihood clustering",2013
+"Using students’ programming behavior to predict success in an introductory mathematics course",2013
+"Investigating the effects of off-task personalization on in-system performance and attitudes within a game-based environment",2013
+"A tool for speech act classification using interactive machine learning",2013
+"Affective state detection in educational systems through mining multimodal data sources",2013
+"Are you committed? Investigating interactions among reading commitment, natural language input, and students' learning outcomes",2013
+"Investigating the efficacy of algorithmic student modelling in predicting students at risk of failing in tertiary education.",2013
+"Student profiling from tutoring system log data: When do multiple graphical representations matter?",2013
+"Semilar: A semantic similarity toolkit for assessing students’ natural language inputs",2013
+"Using multi-level models to assess data from an intelligent tutoring system",2013
+"Tag-aware ordinal sparse factor analysis for learning and content analytics",2013
+"Discovering student models with a clustering algorithm using problem content",2013
+"A comparison of model selection metrics in datashop",2013
+"Degeneracy in student modeling with dynamic Bayesian networks in intelligent edu-games",2013
+"Mining the impact of course assignments on student performance",2013
+"Modeling students’ learning and variability of performance in problem solving",2013
+"Project CASSI: A social-graph based tool for classroom behavior analysis and optimization",2013
+"Tuned models of peer assessment in MOOCs",2013
+"Evaluation of automatically generated hint feedback",2013
+"A Moodle block for selecting, visualizing and mining students' usage data",2013
+"Using item response theory to refine knowledge tracing",2013
+"Investigating the solution space of an open-ended educational game using conceptual feature extraction",2013
+"Component model in discourse analysis",2013
+"A prediction model uses the sequence of attempts and hints to better predict knowledge: Better to attempt the problem first, rather than ask for a hint",2013
+"Gathering emotional data from multiple sources",2013
+"Meta-reasoning algorithm for improving analysis of student interactions with learning objects using supervised learning",2013
+"Towards the development of a classification service for predicting students’ performance",2013
+"Detecting player goals from game log files",2013
+"Analyzing the Mental Health of Engineering Students using Classification and Regression",2013
+"Estimating the benefits of student model improvements on a substantive scale",2013
+"Measuring the moment of learning with an information-theoretic approach",2013
+"Do students really learn an equal amount independent of whether they get an item correct or wrong?",2013
+"Foreword",2013
+"The complex dynamics of aggregate learning curves",2013
+"Hints: You can’t have just one",2013
+"FlexCCT: Software for continuous CCT",2013
+"Determining problem selection for a logic proof tutor",2013
+"Incorporating scaffolding and tutor context into Bayesian knowledge tracing to predict inquiry skill acquisition",2013
+"Modeling and optimizing forgetting and spacing effects during musical interval training",2013
+"Evaluating topic-word review analysis for understanding student peer review performance",2013
+"Modeling affect in student-driven learning scenarios",2013
+"Estimating student knowledge from paired interaction data",2013
+"Modeling student retention in an environment with delayed testing",2013
+"Exploring the relationship between course structure and etext usage in blended and open online courses",2013
+"Using ITS generated data to predict standardized test scores",2013
+"Discovering the relationship between student effort and ability for predicting the performance of technology-assisted learning in a mathematics after-school program",2013
+"Students’ walk through tutoring: Using a random walk analysis to profile students",2013
+"Paragraph specific n-gram approaches to automatically assessing essay quality",2013
+"Predicting future learning better using quantitative analysis of moment-by-moment learning",2013
+"From “events” to “Activities”: Creating abstraction techniques for mining students’ model-based inquiry processes",2013
+"Predicting college enrollment from student interaction with an intelligent tutoring system in middle school",2013
+"Optimal and worst-case performance of mastery learning assessment with Bayesian knowledge tracing",2013
+"Causal modeling to understand the relationship between student attitudes, affect and outcomes",2013
+"BOTS: Harnessing player data and player effort to create and evaluate levels in a serious game",2013
+"Automatically recognizing facial expression: Predicting engagement and frustration",2013
+"Predicting standardized test scores from cognitive tutor interactions",2013
+"Students activity visualization tool",2013
+"Proceedings of the 6th International Conference on Educational Data Mining, EDM 2013",2013
+"Toward predicting test score gains with online behavior data of teachers",2013
+"What and when do students learn? Fully data-driven joint estimation of cognitive and student models",2013
+"Predicting player moves in an educational game: A hybrid approach",2013
+"Demonstration of a Moodle student monitoring web application",2013
+"A dynamic group composition method to refine collaborative learning group formation",2013
+"Limits to accuracy: How well can we do at student modeling?",2013
+"An investigation of psychometric measures for modelling academic performance in tertiary education",2013
+"Mining meaningful patterns from students’ handwritten coursework",2013
+"Automatic gaze-based detection of mind wandering during reading",2013
+"Helping students manage personalized learning scenarios",2013
+"Test-size reduction for concept estimation",2013
+"Joint topic modeling and factor analysis of textual information and graded response data",2013
+"Mining social deliberation in online communication: If you were me and I were you",2013
+"Bringing student backgrounds online: MOOC user demographics, site usage, and online learning",2013
+"Exploring exploration: Inquiries into exploration behavior in complex problem solving assessment",2013
+"Reading into the text: Investigating the influence of text complexity on cognitive engagement",2013
+"Data preprocessing using a priori knowledge",2013
+"Data mining in the classroom: Discovering groups’ strategies at a multi-tabletop environment",2013
+"Analysis of students clustering results based on Moodle log data",2013
+"Sequences of frustration and confusion, and learning",2013
+"Adapting Bayesian knowledge tracing to a massive open online course in edX",2013
+"Extending the assistance model: Analyzing the use of assistance over time",2013
+"Clustering and visualizing study state sequences",2013
+"Predicting group programming project performance using SVN activity traces",2013
+"Does representational understanding enhance fluency – Or vice versa? Searching for mediation models",2013
+"Identifying and visualizing the similarities between course content at a learning object, module and program level",2013
+"A spectral learning approach to knowledge tracing",2013
+"Visual exploration of interactions and performance with LEMO",2013
+"DARE: Deep Anaphora Resolution in dialogue based intelligent tutoring systems",2013
+"Extracting time-evolving latent skills from examination time series",2013
+"Determining review coverage by extracting topic sentences using a graph-based clustering approach",2013
+"Educational data mining: Illuminating student learning pathways in an online fraction game",2013
+"Using a lexical analysis of students’ self-explanation to predict course performance",2013
+"Domain-independent proximity measures in intelligent tutoring systems",2013
+"Mining temporally-interesting learning behavior patterns",2013
+"Mining users’ behaviors in intelligent educational games prime climb a case study",2013
+"Uncovering class-wide patterns in responses to true/false questions",2013
+"A meta-learning approach for recommending a subset of white-box classification algorithms for Moodle datasets",2013

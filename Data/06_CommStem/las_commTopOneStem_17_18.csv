@@ -1,0 +1,326 @@
+"Stem","commR_17_18","n"
+"abstract syntax tre",14,1
+"access",27,1
+"achievement gap",42,1
+"active learn",5,1
+"active view",7,1
+"adapt",19,1
+"adaptive instruct",36,1
+"adaptive test",16,1
+"annot",7,1
+"applied cognitive sci",72,1
+"artificial intellig",11,1
+"assist",62,1
+"asynchronous exam",37,1
+"attention model",64,1
+"audio",21,1
+"automated program repair",14,1
+"automated scor",23,1
+"bayesian hypothesis test",62,1
+"behavioral model",19,1
+"biolog",30,1
+"biolog",50,1
+"blended learn",46,1
+"blended learn",54,1
+"c#",14,1
+"chatbot softwar",56,1
+"cheat",37,1
+"citizen sci",6,1
+"classdb",48,1
+"cloud lab",30,1
+"cluster",52,1
+"code edit",21,1
+"code editor",21,1
+"code execut",21,1
+"code test",21,1
+"code visu",21,1
+"cognitive diagnosi",16,1
+"collabor",5,1
+"collabor",57,1
+"collaborative learn",25,1
+"collaborative learn",29,1
+"competency model",36,1
+"computer-assisted instruct",20,1
+"computer-assisted language learn",11,1
+"computer program",49,1
+"computer sci",63,1
+"computer science educ",3,1
+"computer supported collaborative learn",41,1
+"computerized test",37,1
+"computing educ",67,1
+"concept map",38,1
+"confus",26,1
+"content knowledg",51,1
+"context/synthesis pap",58,1
+"control flow match",14,1
+"course perform",31,1
+"course persist",13,1
+"creativ",17,1
+"creative think",28,1
+"crowd assess",33,1
+"crowdlearn",29,1
+"crowdsourc",43,1
+"curios",26,1
+"custom",55,1
+"data analysi",30,1
+"data anonym",35,1
+"data manag",48,1
+"data privaci",35,1
+"data select",22,1
+"decision tre",55,1
+"deep learn",32,1
+"deep learn",64,1
+"dilig",9,1
+"discussion forum",34,1
+"discussion forum",39,1
+"discussion forum",40,1
+"distance learn",36,1
+"distance learn",65,1
+"distributed learn",36,1
+"dropout predict",22,1
+"e-learn",8,1
+"e-learn",72,1
+"educ",3,1
+"educ",14,1
+"educ",20,1
+"educ",30,1
+"education technolog",72,1
+"educational data min",7,1
+"educational data min",32,1
+"edx",14,1
+"edx",19,1
+"edx",30,1
+"elearn",27,1
+"ell student identif",9,1
+"embed",40,1
+"emoji",26,1
+"emot",26,1
+"engag",8,1
+"engagement pattern",13,1
+"engineering educ",53,1
+"english language learn",9,1
+"entail",64,1
+"epistemic cognit",70,1
+"epistemolog",70,1
+"euglena",30,1
+"evidence-based instructional design",72,1
+"experience application program interface (xapi)",36,1
+"expert feedback",67,1
+"exploratory data analysi",7,1
+"exploratory factor analysi",18,1
+"exploratory learning environ",7,1
+"feedback",33,1
+"feminist pedagogi",65,1
+"formative assess",46,1
+"forum",26,1
+"foss",48,1
+"gamif",46,1
+"gender and divers",5,1
+"group collabor",25,1
+"hashtag",26,1
+"hidden markov model",44,1
+"in-situ experi",3,1
+"informal learn",33,1
+"information retriev",40,1
+"inquiry-based learn",30,1
+"instructional design",27,1
+"integrated curriculum",38,1
+"intelligent math tutor",38,1
+"intelligent tutoring system",2,3
+"intelligent tutoring system",9,1
+"intelligent tutoring system",29,1
+"intelligent tutoring system (its)",36,1
+"interactive biotechnolog",30,1
+"interactive virtual lab",7,1
+"intervention strategi",39,1
+"item response theori",16,1
+"keystroke dynam",35,1
+"knowledge compon",16,1
+"knowledge model",70,1
+"knowledge space theori",16,1
+"knowledge trac",32,1
+"language support intervent",9,1
+"large-scale educational assess",23,1
+"large scale experiment",62,1
+"learn",47,1
+"learn",48,1
+"learn",60,1
+"learning analyt",7,1
+"learning analyt",9,1
+"learning analyt",10,1
+"learning analyt",30,1
+"learning analyt",52,1
+"learning analytics.",17,1
+"learning assess",20,1
+"learning at scal",49,1
+"learning effect",56,1
+"learning engin",72,1
+"learning in local languag",60,1
+"learning record store (lrs)",36,1
+"learning strategi",7,1
+"learning task schedul",56,1
+"learning technolog",29,1
+"life sci",30,1
+"limited dataset s",64,1
+"linguistic access",60,1
+"local",60,1
+"log-based measur",17,1
+"machine learn",32,1
+"markov chain monte carlo",10,1
+"markov model",44,1
+"massive cours",3,1
+"massive open online cours",12,1
+"massive open online cours",14,1
+"massive open online cours",25,1
+"massive open online cours",34,1
+"massive open online cours",57,1
+"massive open online course.",42,1
+"massive open online courses (moocs)",26,1
+"massive open online courses.",29,1
+"massive open online lab",53,1
+"mathematical model",39,1
+"mathematical word problem",38,1
+"measur",9,1
+"mechanical reasoning inventori",18,1
+"meta-analysi",58,1
+"metric",52,1
+"microcredentials.",67,1
+"mobile appl",46,1
+"mobile learn",36,1
+"model",30,1
+"mooc",1,5
+"mooc",2,3
+"mooc",9,1
+"mooc",12,1
+"mooc",13,1
+"mooc",19,1
+"mooc",21,1
+"mooc",24,2
+"mooc",25,1
+"mooc",27,1
+"mooc",30,1
+"mooc",31,1
+"mooc",41,1
+"mooc",50,1
+"mooc",52,1
+"mooc",53,1
+"mooc",54,1
+"mooc",57,1
+"mooc",70,1
+"mooc",999,111
+"mooc behavioral analysi",9,1
+"mooc log analysi",44,1
+"moocs.",67,1
+"mool",53,1
+"motiv",9,1
+"motiv",46,1
+"multi-mooc",22,1
+"multitask learn",64,1
+"natural language infer",64,1
+"natural language process",10,1
+"natural language process",11,1
+"natural language process",63,1
+"navigational effici",19,1
+"neural network",64,1
+"noncognitive factor",9,1
+"on-line commun",39,1
+"online behavior",9,1
+"online cours",40,1
+"online creative collabor",43,1
+"online discuss",26,1
+"online educ",32,1
+"online educ",50,1
+"online educ",53,1
+"online educ",63,1
+"online experiment",47,1
+"online higher educ",67,1
+"online learn",5,1
+"online learn",6,1
+"online learn",21,1
+"online learn",65,1
+"online learn",70,1
+"online learning platform",8,1
+"optimization theori",56,1
+"peer assess",6,1
+"peer assess",12,1
+"peer help",33,1
+"peer learn",5,1
+"peer review",6,1
+"peer review",12,1
+"peer video product",43,1
+"peerassess",57,1
+"person",19,1
+"personalized learn",32,1
+"personalized learn",56,1
+"personalized learn",67,1
+"phototaxi",30,1
+"probabilistic clust",44,1
+"problem pos",29,1
+"process conform",3,1
+"program",21,1
+"program synthesi",3,1
+"programming educ",3,1
+"programming experience infer",35,1
+"programming language educ",60,1
+"programming learn",17,1
+"programming style tutor",3,1
+"q-matric",16,1
+"rain classroom",54,1
+"randomized controlled tri",4,2
+"randomized controlled tri",62,1
+"randomized experi",42,1
+"ranking diversif",40,1
+"readabl",63,1
+"real-time intervent",19,1
+"reciproc",6,1
+"remote experiment",30,1
+"remote lab",53,1
+"representation learn",32,1
+"rnn",19,1
+"rubric-based grad",20,1
+"scalabl",48,1
+"scalabl",51,1
+"scaling cs1",5,1
+"scaling large cours",20,1
+"science inquiri",51,1
+"scientific explan",51,1
+"scientific knowledge/learning at scale.",43,1
+"scientific outreach",47,1
+"scratch",28,1
+"scratch",60,1
+"script",24,2
+"search",40,1
+"self-control",9,1
+"self-pac",5,1
+"self-regulated learn",9,1
+"self-regulated learn",46,1
+"sentiment analysi",63,1
+"sequential modeling.",32,1
+"social computing system",6,1
+"social network analysi",31,1
+"social psycholog",42,1
+"software engin",3,1
+"source code snapshot",35,1
+"student behavior model",44,1
+"student feedback",44,1
+"student perform",37,1
+"survey",52,1
+"survey pap",58,1
+"teach",21,1
+"teacher intervent",39,1
+"teamwork",57,1
+"temporal data",7,1
+"thread categorization.",34,1
+"topic difficulti",44,1
+"transact",64,1
+"transfer learn",64,1
+"treatment effect",55,1
+"universal design",27,1
+"user interfac",30,1
+"user studi",30,1
+"video-based learn",7,1
+"video engag",50,1
+"visual",49,1
+"visual analyt",7,1
+"visual model",23,1
+"writing profici",51,1

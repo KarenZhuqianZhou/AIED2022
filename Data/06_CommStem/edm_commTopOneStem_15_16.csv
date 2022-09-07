@@ -1,0 +1,277 @@
+"Stem","commR_15_16","n"
+"ab experi",51,1
+"active learn",1,1
+"adaptive scaffold",82,1
+"adaptive system",88,1
+"additive factor model",29,1
+"affect",15,1
+"affinity propag",26,1
+"afghanistan education system",81,1
+"afterschool program",17,1
+"alek",17,1
+"algorithm",19,1
+"algorithm analysi",19,1
+"analytic tools for learn",7,1
+"applic",75,1
+"argument diagram",1,1
+"assess",12,1
+"assess",38,1
+"assess",63,1
+"assess",73,1
+"at-risk stud",62,1
+"attrit",16,1
+"augmented graph grammar",1,1
+"auto-scor",46,1
+"autograding system",12,1
+"automated essay feedback",7,1
+"automated process assess",69,1
+"automated writing assess",13,1
+"aviation pilot",29,1
+"bayesian hierarchical model",37,1
+"bayesian knowledge trac",85,1
+"bayesian models of student perform",31,1
+"bayesian network",22,2
+"bayesian network",52,1
+"behavioral engag",60,1
+"blended learn",9,1
+"bleu",46,1
+"blue collar job",73,1
+"causal mechan",37,1
+"choic",63,1
+"classif",25,1
+"close-the-loop experi",58,1
+"clustering student behaviour",12,1
+"cognitive engag",60,1
+"cognitive model",26,1
+"cognitive model",58,1
+"cognitive task analysi",58,1
+"collabor",77,1
+"collaborative learn",69,1
+"collaborative problem solv",23,1
+"comparative analysi",18,1
+"competency-based train",29,1
+"complex skil",22,2
+"computer-based learning environ",56,1
+"computer science teach",39,1
+"concept map",82,1
+"conceptual and social learning process",77,1
+"coupled interact",14,1
+"cross sect",83,1
+"data-driven method",1,1
+"data-driven tutoring system",39,1
+"data collect",70,1
+"data min",48,1
+"data min",82,1
+"data min",86,1
+"data structur",19,1
+"deep knowledge trac",31,1
+"deep learn",10,1
+"deep learn",22,2
+"depth of process",75,1
+"difficulti",75,1
+"discussion forum",42,1
+"discussion forum",68,1
+"distance metr",28,1
+"doc2vec",46,1
+"dropout predict",62,1
+"e-book log",50,1
+"early warning system",47,1
+"educational data min",1,1
+"educational data min",44,2
+"educational data min",70,1
+"educational data min",81,1
+"educational data min",83,1
+"educational gam",1,1
+"educational technolog",67,2
+"educational technolog",77,1
+"educational video",10,1
+"efficaci",67,2
+"engag",10,1
+"engag",88,1
+"etextbook",19,1
+"evalu",67,2
+"evolutionary clust",28,1
+"evolutionary comput",1,1
+"execution trac",39,1
+"experi",16,1
+"expert skeleton concept map",82,1
+"factor analysi",35,1
+"feature engin",1,1
+"feature select",54,1
+"feedback",12,1
+"feedback val",63,1
+"flipped learn",70,1
+"formative feedback",13,1
+"game",63,1
+"game-based learn",1,1
+"game-based learn",5,2
+"gender gap",9,1
+"help seek",17,1
+"hidden markov model",68,1
+"hierarchical bayesian model",85,1
+"hierarchical linear model",1,1
+"high-utility pattern",56,1
+"high school mooc",40,1
+"higher educ",53,1
+"homework",9,1
+"implicit science learn",1,1
+"information seek",68,1
+"intelligent tutor",37,1
+"intelligent tutoring system",4,3
+"intelligent tutoring system",6,3
+"intelligent tutoring system",88,1
+"interaction dynam",15,1
+"interaction network",1,1
+"interactive tabletops model",7,1
+"item difficulti",3,2
+"item response theori",19,1
+"item response theori",31,1
+"item response theory (irt)",38,1
+"judge system",70,1
+"kankor",81,1
+"knowledge compon",58,1
+"knowledge compon",79,2
+"knowledge structur",86,1
+"knowledge trac",22,2
+"learn",63,1
+"learning analyt",1,1
+"learning analyt",7,1
+"learning analyt",19,1
+"learning analyt",35,1
+"learning analyt",41,1
+"learning analyt",42,1
+"learning analyt",48,1
+"learning analyt",53,1
+"learning curv",79,2
+"learning management system",11,2
+"learning management system",47,1
+"learning management system",53,1
+"learning path analysi",32,1
+"learning strategi",17,1
+"learning theori",47,1
+"liveli",10,1
+"lms",53,1
+"log data",88,1
+"los collaborative search",25,1
+"lstm",10,1
+"major predict",81,1
+"markov chain",28,1
+"math problem solv",15,1
+"meta-learn",25,1
+"mind wand",2,2
+"mining student behaviour and strategies, autograding system",12,1
+"model",75,1
+"model comparison",54,1
+"mooc",1,1
+"mooc",12,1
+"mooc",18,1
+"mooc",21,2
+"mooc",32,1
+"mooc",35,1
+"mooc",42,1
+"mooc",51,1
+"mooc",57,1
+"mooc",60,1
+"mooc",70,1
+"mooc",999,27
+"moodl",48,1
+"motor skil",73,1
+"multimodal analysi",10,1
+"multimodal learning analyt",15,1
+"multiple choic",75,1
+"museum",7,1
+"natural language process",6,3
+"natural language process",7,1
+"navig",82,1
+"nmf",18,1
+"non-negative matrix factor",50,1
+"noncompli",16,1
+"off-task behavior",88,1
+"online discours",42,1
+"online educ",16,1
+"online educ",40,1
+"online educ",70,1
+"online homework intervent",9,1
+"online learn",35,1
+"online technolog",9,1
+"open online courses, nonlinear state space model",62,1
+"page views student engag",83,1
+"participant behavior",18,1
+"pattern min",50,1
+"peer-assess",41,1
+"performance feedback",7,1
+"performance predict",57,1
+"persist",12,1
+"persist",17,1
+"person",82,1
+"personalized linear multi-regression model",57,1
+"physical and virtual represent",77,1
+"prediction model",47,1
+"prediction model",88,1
+"prerequisite discoveri",52,1
+"prerequisite structur",54,1
+"principal stratif",16,1
+"principal stratif",37,1
+"problem-based writ",13,1
+"problem diagram",51,1
+"proficiency profil",1,1
+"program",68,1
+"progress predict",41,1
+"random forest",23,1
+"randomized controlled tri",16,1
+"recommend",56,1
+"recommender system",12,1
+"recurrent neural net",31,1
+"recurrent neural network",10,1
+"retrieval practic",75,1
+"ribe",46,1
+"robust learn",22,2
+"scalable analyt",7,1
+"selection bia",16,1
+"self-grad",38,1
+"self-regulated learn",1,1
+"semantic data min",86,1
+"sequence align",39,1
+"sequence min",28,1
+"sequence min",29,1
+"sequential pattern min",26,1
+"sequential pattern min",56,1
+"sequential pattern min",68,1
+"short answ",75,1
+"simulation-based assess",23,1
+"skill model",86,1
+"skill relationship",54,1
+"skill vs. student parameter",85,1
+"social learn",12,1
+"sorting program",39,1
+"statist",16,1
+"stem",77,1
+"stem learn",47,1
+"student learn",40,1
+"student model",52,1
+"student models of practic",85,1
+"student persist",53,1
+"student plac",81,1
+"student retent",53,1
+"tablet",73,1
+"teacher-facilitated feedback",13,1
+"text similar",46,1
+"time seri",48,1
+"time seri",83,1
+"topic discoveri",13,1
+"topic model",42,1
+"touch-screen devic",73,1
+"transfer",58,1
+"transitional prob",9,1
+"tutoring system",1,1
+"user-created cont",1,1
+"user behavior analysi",14,1
+"user clust",14,1
+"user control",80,2
+"value of inform",81,1
+"visual",32,1
+"visual represent",30,2
+"visualis",42,1
+"vle",48,1
+"web-based learn",14,1
+"web resources; optimizing learn",38,1

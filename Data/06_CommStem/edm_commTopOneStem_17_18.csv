@@ -1,0 +1,359 @@
+"Stem","commR_17_18","n"
+"academic achievement predict",7,1
+"academic dishonesti",59,1
+"academic student success",81,1
+"adaptive learn",29,1
+"adaptive learn",85,1
+"additive factor model",61,1
+"adult literaci",2,2
+"advanced guiraud",31,1
+"agglomerative clust",46,1
+"analyzing wrong answ",20,1
+"argument diagram",97,1
+"assess",50,1
+"assessment gener",8,1
+"association rule min",44,1
+"at-risk stud",24,1
+"attend",40,1
+"automated assess",67,1
+"automated grading system",97,1
+"automatic composition of test pap",90,1
+"automatic eye gaze follow",72,1
+"automatic feedback",97,1
+"autotutor",2,2
+"banner",38,1
+"bayesian infer",32,1
+"bayesian knowledge trac",85,1
+"bayesian knowledge trac",94,1
+"bayesian learn",80,1
+"bayesian network",58,1
+"bayesian regress",11,1
+"behavioral analys",65,1
+"behavioural pattern",7,1
+"best educational practic",11,1
+"blended cours",3,2
+"bridge ensemble measur",34,1
+"business educ",95,1
+"causal discoveri",56,1
+"chemistri",15,1
+"claim",67,1
+"classif",2,2
+"classif",17,1
+"classif",41,1
+"classif",81,1
+"classroom observation video",72,1
+"cluster",16,1
+"cluster",71,1
+"cluster",95,1
+"clustering algorithm",68,1
+"clustering analysi",18,1
+"cognitive assess",22,1
+"cognitive diagnosis model",74,1
+"cognitive psycholog",11,1
+"cognitive tutor",37,1
+"collabor",55,1
+"collabor",84,1
+"collaborative problem solv",50,1
+"college characterist",41,1
+"common student misconcept",20,1
+"community question answ",46,1
+"computational think",55,1
+"computer-based learning environ",17,1
+"concept dependency graph",34,1
+"confusion character",77,1
+"context tre",78,1
+"convolutional neural network",47,1
+"corpus linguist",31,1
+"course-wise influ",64,1
+"course enrol",48,1
+"course recommend",12,1
+"cross-recurrence quantif",84,1
+"data interpret",18,1
+"data structur",80,1
+"data vectors represent",47,1
+"deep knowledge trac",85,1
+"deep learn",1,2
+"deep learning for educ",76,1
+"deep neural network",30,1
+"deep neural network",72,1
+"desirable difficulti",15,1
+"detector model",37,1
+"developmental mathemat",37,1
+"digital footprint",7,1
+"dimensionality reduct",30,1
+"discours",50,1
+"discussion forum analysi",77,1
+"doer effect",56,1
+"dormitory occup",38,1
+"dropout",66,1
+"dropout predict",20,1
+"early warning system",83,1
+"edge direct",34,1
+"edge exist",34,1
+"educational data min",20,1
+"educational data min",24,1
+"educational data min",43,1
+"educational data min",48,1
+"educational data min",59,1
+"educational data min",76,1
+"educational gam",3,2
+"educational recommender system",12,1
+"educational system",16,1
+"educational technolog",60,1
+"engag",40,1
+"engag",68,1
+"engag",88,1
+"english as a second languag",31,1
+"entity embed",33,1
+"entity ment",33,1
+"entity uri",33,1
+"error analysi",80,1
+"esl",31,1
+"essay scor",28,1
+"evid",67,1
+"exceptional model min",42,1
+"exploratory learning environ",32,1
+"extreme learning machin",45,1
+"eye-gaze data analysi",17,1
+"eye-track",84,1
+"feature import",81,1
+"feature select",12,1
+"forgetting curv",29,1
+"frequently asked quest",46,1
+"funtoot",85,1
+"game-based learn",6,2
+"genetic algorithm",12,1
+"genetic algorithm",90,1
+"global direction measur",34,1
+"guidance for stud",7,1
+"heterogeneous treatment effect",1,2
+"hierarchical clust",10,1
+"higher educ",37,1
+"higher educ",48,1
+"higher educ",95,1
+"human tutor",37,1
+"hybrid multi-criteria approach",12,1
+"identifi",94,1
+"implicit learn",15,1
+"informal educ",23,1
+"inquiri",69,1
+"inquiri",100,1
+"intelligent tutoring system",36,1
+"intelligent tutoring system",37,1
+"intelligent tutoring system",70,1
+"intelligent tutoring system",85,1
+"interact",82,1
+"interactive simul",69,1
+"interactive simul",100,1
+"interpret",32,1
+"knowledge bas",8,1
+"knowledge gap",57,1
+"knowledge space theori",29,1
+"knowledge trac",43,1
+"language model",28,1
+"latent dirichlet alloc",26,1
+"latent dirichlet alloc",45,1
+"latent factor",64,1
+"lda",10,1
+"learner corpora",31,1
+"learner model",47,1
+"learning & develop",35,1
+"learning analyt",5,2
+"learning analyt",42,1
+"learning analyt",48,1
+"learning analyt",76,1
+"learning by do",56,1
+"learning management system",83,1
+"learning material correlation discoveri",79,1
+"learning object",12,1
+"learning outcom",45,1
+"learning sci",22,1
+"learning sci",83,1
+"lexical sophist",31,1
+"lifelong learn",86,1
+"log data",69,1
+"log data",100,1
+"logistic regress",41,1
+"lsa",2,2
+"lstm",28,1
+"machine learn",2,2
+"machine learn",11,1
+"machine learn",15,1
+"machine learn",22,1
+"machine learn",43,1
+"machine learn",90,1
+"machine teach",15,1
+"markov chain",16,1
+"markov chain",38,1
+"markov chain monte carlo",32,1
+"massive open online courses (moocs)",7,1
+"math",1,2
+"mathematics educ",37,1
+"mcmc estim",58,1
+"mcq gener",8,1
+"mention embed",33,1
+"meta-analysi",1,2
+"mind wand",9,2
+"mixed effect model",11,1
+"model",38,1
+"model adapt",78,1
+"mooc",3,2
+"mooc",20,1
+"mooc",21,2
+"mooc",23,1
+"mooc",42,1
+"mooc",59,1
+"mooc",62,1
+"mooc",66,1
+"mooc",88,1
+"mooc",999,25
+"mooc certif",26,1
+"mooc(massive open online course)",90,1
+"moocs forum recommend",78,1
+"moral reason",47,1
+"motiv",68,1
+"multi-label classif",12,1
+"multi-modal learning analyt",55,1
+"multi-source data merg",7,1
+"multiple-account ch",59,1
+"n-gram model",33,1
+"natural-language tutoring system",36,1
+"natural language process",11,1
+"nested model comparison",58,1
+"network act",40,1
+"network dynam",82,1
+"neural network",2,2
+"neural network",11,1
+"neural network",74,1
+"next-term grade predict",64,1
+"nlp",10,1
+"non-negative matrix factor",16,1
+"one laptop per child",52,1
+"online cours",37,1
+"online discuss",10,1
+"online educ",43,1
+"online instructional design",18,1
+"ontolog",50,1
+"open learning platform",63,1
+"optimal train",15,1
+"pagerank",7,1
+"paper-based assess",60,1
+"parameters standard error",61,1
+"peer-learning environ",57,1
+"peer-supported learn",82,1
+"peer help",86,1
+"peer match",86,1
+"peer tutor",44,1
+"perceptual flu",15,1
+"performance factor analysi",85,1
+"performance predict",90,1
+"person",35,1
+"personalized learn",1,2
+"personalized learn",43,1
+"personalized vocabulary learn",8,1
+"physical synchroni",55,1
+"polytomous irt",88,1
+"pre- and post- test",20,1
+"pre-knowledg",88,1
+"prediction model",70,1
+"prediction model",83,1
+"prerequisite discoveri",74,1
+"prerequisite structure discoveri",58,1
+"probabilistic longitudinal network analysi",82,1
+"problem solv",75,1
+"pseudo-bayes factor",58,1
+"quasi-experimental design",52,1
+"question similar",46,1
+"question taxonomi",71,1
+"randomized controlled experi",1,2
+"rapport",44,1
+"reading behavior",17,1
+"reason",67,1
+"recommend",35,1
+"recommender system",57,1
+"representation learn",43,1
+"reviewing behavior",60,1
+"rnn",28,1
+"rnn",66,1
+"science educ",69,1
+"science educ",100,1
+"scientific-discovery gam",75,1
+"scientific explan",67,1
+"semantic model degeneraci",94,1
+"semantic similar",70,1
+"semi-supervised classif",30,1
+"sensit",38,1
+"sentiment analysi",68,1
+"sequence effect",15,1
+"sequence model",16,1
+"sequential clust",65,1
+"sequential model",43,1
+"serious gam",47,1
+"short open-ended respons",33,1
+"siena",82,1
+"simulation-based assess",50,1
+"skill",74,1
+"sna",10,1
+"social skil",47,1
+"social st",44,1
+"spatio-temporal trajectori",65,1
+"spoc",24,1
+"stacked sparse autoencod",66,1
+"stem learn",83,1
+"structure of argu",97,1
+"student affect",1,2
+"student characterist",41,1
+"student clust",16,1
+"student data",48,1
+"student enrol",41,1
+"student model",4,2
+"student model",11,1
+"student model",36,1
+"student model",74,1
+"student model",79,1
+"student performance predict",24,1
+"student performance predict",76,1
+"student success",1,2
+"student success predict",40,1
+"students’ behavior",71,1
+"students’ success",38,1
+"study behavior analysi",24,1
+"study habit",20,1
+"study tim",40,1
+"sudent engag",63,1
+"supervised learn",7,1
+"support vector machin",41,1
+"support vector machin",45,1
+"supporting teach",18,1
+"switching state space model",32,1
+"temporal effect",64,1
+"temporal ord",34,1
+"term frequency-inverse document frequ",45,1
+"testing effect",29,1
+"text classif",47,1
+"text min",23,1
+"text min",25,2
+"text min",26,1
+"text min",68,1
+"text min",95,1
+"time series analysi",41,1
+"topic model",7,1
+"topic model",10,1
+"topic model",26,1
+"topic model",48,1
+"transcript",48,1
+"transition network",10,1
+"typical behavior",62,1
+"university h",38,1
+"user behavior",10,1
+"variable select",41,1
+"variational auto-encod",30,1
+"video learn",10,1
+"visual",15,1
+"visual",75,1
+"vocabulary assess",8,1
+"vocabulary learn",8,1
+"vocabulary learn",70,1
+"vocabulary list",31,1
+"x-means clust",62,1
+"zone of proximal develop",36,1

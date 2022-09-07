@@ -1,0 +1,843 @@
+"Stem","commR_13_20","n"
+"academic achiev",45,1
+"academic analyt",94,1
+"academic perform",99,1
+"act of speech",66,1
+"active learn",43,1
+"activity monitors (fitbit)",119,1
+"adapt",22,1
+"adaptive e-learning system",20,1
+"adaptive learn",70,1
+"adaptive learn",185,1
+"adaptive test",144,1
+"adult educ",88,1
+"adult learn",148,1
+"advis",11,1
+"affect",131,1
+"affect",193,1
+"affective comput",39,1
+"agoni",129,1
+"analysing interaction data",17,1
+"analysis processes of learning trac",22,1
+"analyt",88,1
+"analyt",193,1
+"analytic approach",13,4
+"analyzing student behavior",99,1
+"anomaly detect",60,1
+"approx-imation algorithm",142,1
+"assess",43,1
+"assess",46,2
+"assess",78,1
+"assess",161,1
+"assess",179,1
+"assess",182,1
+"assessment design",144,1
+"audience response system",139,1
+"authentic science inquiri",179,1
+"autoencod",175,1
+"automated assess",37,1
+"automated detection of reflect",184,1
+"automated formative feedback",163,1
+"automated grad",42,1
+"automatic essay evalu",109,1
+"availability predict",112,1
+"awar",54,1
+"bag-of-word",31,1
+"balance assess",72,1
+"barriers to adopt",81,1
+"bayesian deep learn",42,1
+"bayesian knowledge trac",26,2
+"behavior",145,1
+"betweeness centr",159,1
+"bidirectional lstm",109,1
+"big-data min",88,1
+"big data",18,1
+"big data",81,1
+"big data",102,1
+"big data analysi",185,1
+"bkt",135,1
+"bkt-bf",135,1
+"blended learn",11,1
+"blended learn",17,1
+"blended learn",22,1
+"blended learn",25,1
+"blended learn",63,1
+"blended learn",170,1
+"block",168,1
+"blog",182,1
+"book read",30,2
+"booleanmatrix factor",142,1
+"botsw",31,1
+"business intellig",156,1
+"calibr",130,1
+"capit",22,1
+"causal model",74,1
+"central",159,1
+"change detect",35,1
+"children's read",30,2
+"churn prediction in telco",25,1
+"class attend",81,1
+"classif",34,1
+"classif",42,1
+"clinical train",110,1
+"cluster",20,1
+"cluster",22,1
+"cluster",28,2
+"cluster",139,1
+"cluster",153,1
+"cluster analysi",170,1
+"clustering analysi",50,1
+"co-clust",82,1
+"co-located learn",89,1
+"coclust",128,1
+"cognitive diagnostic model",58,1
+"cognitive load",70,1
+"cognitive pres",24,1
+"coh-metrix",164,1
+"collabor",46,2
+"collabor",94,1
+"collaborative learn",146,1
+"collaborative model",28,2
+"collaborative multi-regression model",99,1
+"collaborative problem solv",124,1
+"combat sport",103,1
+"communic",193,1
+"communications skills learn",83,1
+"comparative educ",157,1
+"compet",155,1
+"competence develop",52,1
+"competency based educ",58,1
+"competency framework reli",58,1
+"complex learn",131,1
+"complex problem solv",70,1
+"computer-based learn",87,1
+"computer ag",124,1
+"computing education research",174,1
+"computing platform",22,1
+"concept drift",75,1
+"concept map",163,1
+"conditional random field",109,1
+"confirmatory factor analysi",117,1
+"confusion detect",19,1
+"confusion detect",80,1
+"constraint",187,1
+"context",22,1
+"context estim",165,1
+"controlled vocabulari",115,1
+"cooperative/collaborative learn",17,1
+"corporate train",98,1
+"courbotre",101,1
+"course sequenc",99,1
+"course tim",99,1
+"credenti",161,1
+"credenti",187,1
+"crowd-sourc",14,1
+"ctas",154,1
+"curriculum",114,1
+"curriculum analysi",114,1
+"curriculum analyt",64,1
+"curriculum plan",99,1
+"dashboard",119,1
+"data analyt",56,1
+"data analyt",98,1
+"data captur",97,1
+"data clean",60,1
+"data collect",174,1
+"data intensive research",92,1
+"data life cycl",22,1
+"data min",24,1
+"data min",38,3
+"data min",48,1
+"data min",90,2
+"data min",188,1
+"data retent",81,1
+"decision tre",87,1
+"decision tre",101,1
+"deep factor model",133,1
+"deep knowledge trac",110,1
+"deep learn",56,1
+"deep learn",133,1
+"degree dropout analysi",41,1
+"degree plan",99,1
+"degree similar",99,1
+"density extrapol",75,1
+"density forecast",75,1
+"descriptive model",45,1
+"design research",113,1
+"developing countri",77,1
+"diagnostic tool",58,1
+"differenti",20,1
+"differential privaci",82,1
+"differential privaci",121,1
+"difficulty index",135,1
+"digital badg",161,1
+"digital badg",167,1
+"dimensional model",81,1
+"disciplinary differ",104,1
+"discours",164,1
+"discourse analysi",89,1
+"discriminative sequence analysi",99,1
+"discuss",186,1
+"distance based featur",152,1
+"divers",20,1
+"doctor-patient commun",83,1
+"document",32,1
+"domain adapt",80,1
+"dropout predict",41,1
+"dual cod",43,1
+"dynamic factor model",69,1
+"dynamic network",25,1
+"dynamic text display",86,1
+"e-learn",25,1
+"e-learn",75,1
+"e-learn",141,1
+"educ",42,1
+"educ",77,1
+"educ",161,1
+"educational cont",137,1
+"educational data min",29,3
+"educational data min",42,1
+"educational data min",89,1
+"educational data min",93,1
+"educational data min",135,1
+"educational data min",162,1
+"educational recommender system",66,1
+"educational technolog",14,1
+"educational technolog",88,1
+"educational technolog",89,1
+"educational video gam",131,1
+"eeg",96,1
+"eeg",143,1
+"elearn",88,1
+"elementary educ",17,1
+"elementary educ",53,1
+"embed",56,1
+"embodied cognit",57,2
+"emergency car",110,1
+"emoji",19,1
+"emot",131,1
+"empowerment and disempower",187,1
+"engag",66,1
+"engag",76,1
+"engag",77,1
+"engagement and perform",17,1
+"engineering educ",136,1
+"enriched assessment rubr",123,1
+"epistemic network analysi",15,2
+"equiti",160,1
+"ethic",190,1
+"evalu",155,1
+"evalu",185,1
+"evaluative judg",14,1
+"event segment",108,1
+"evolving datastream",75,1
+"excel",156,1
+"experience sampling methodology (esm)",193,1
+"experiment",32,1
+"experimental design",161,1
+"explainable ai",75,1
+"explan",54,1
+"face-to-face classroom analysi",89,1
+"facial expression recognit",131,1
+"fair",160,1
+"feature contribut",54,1
+"feature extract",25,1
+"feature find",108,1
+"feature find",189,1
+"feature interact",54,1
+"feature select",136,1
+"features extract",41,1
+"finger trac",86,1
+"first-year engin",136,1
+"flexibl",22,1
+"fluenci",30,2
+"food analyt",50,1
+"footbal",120,1
+"footbal",129,1
+"football analyt",140,2
+"football match outcome predict",150,1
+"forgetting curv",110,1
+"formal learn",193,1
+"formative assess",17,1
+"formative assess",53,1
+"formative assess",63,1
+"formative assess",165,1
+"forum",66,1
+"fraction",32,1
+"fraction",113,1
+"framework",117,1
+"game",32,1
+"game-based learn",131,1
+"gated boltzmann machin",192,1
+"gaussian process",100,1
+"gestur",177,1
+"gis",127,1
+"global health",110,1
+"goal set",161,1
+"google doc",11,1
+"gpa",99,1
+"grade",159,1
+"grade go",156,1
+"grade predict",25,1
+"grade predict",42,1
+"graph",159,1
+"graph algorithm",14,1
+"graph featur",25,1
+"ground",177,1
+"hadoop",101,1
+"handwrit",107,1
+"hashtag",19,1
+"health",119,1
+"health literaci",20,1
+"hierarch",109,1
+"hierarchi",129,1
+"hierarchical linear model",105,2
+"high-resolution social network",60,1
+"higher educ",17,1
+"higher educ",35,1
+"higher educ",45,1
+"higher educ",64,1
+"higher educ",88,1
+"higher educ",91,1
+"higher educ",98,1
+"higher educ",190,1
+"hull-white model",130,1
+"human",195,2
+"human-computer interact",143,1
+"humancomputer interfac",17,1
+"idea measur",89,1
+"immersive virtual world",158,1
+"immigr",148,1
+"improving classroom teach",17,1
+"ims calip",115,1
+"indegree centr",159,1
+"indic",49,2
+"individu",43,1
+"individual differ",170,1
+"individual model",50,1
+"informal learn",76,1
+"informal learn",193,1
+"information model",115,1
+"information retriev",48,1
+"information retrieving tool",141,1
+"information spread",172,1
+"information visu",136,1
+"inquiry-based pedagogi",102,1
+"instructional design",70,1
+"instructional polici",43,1
+"instructor support",183,1
+"intelligent character recognit",107,1
+"intelligent tutoring system",2,10
+"intelligent tutoring system",47,2
+"intelligent tutoring system",96,1
+"intelligent tutoring systems (its)",39,1
+"interact",145,1
+"interaction analysis ind",123,1
+"interaction techniqu",139,1
+"interactive visu",24,1
+"interception predict",152,1
+"interest rate model",130,1
+"interleav",168,1
+"interpersonal interact",86,1
+"interpretable machine learn",83,1
+"intervent",38,3
+"intervent",186,1
+"intervention evalu",11,1
+"irt",194,1
+"it",168,1
+"item pool",185,1
+"item response theori",75,1
+"item response theori",93,1
+"item response theori",185,1
+"job interview",111,1
+"journal writ",42,1
+"k-12 educ",168,1
+"kernel density estim",75,1
+"kernel funct",100,1
+"keywords microgenetic research",32,1
+"keywords student engag",188,1
+"knn",34,1
+"knowledg",104,1
+"knowledge commun",182,1
+"knowledge compon",78,1
+"knowledge model",144,1
+"knowledge trac",93,1
+"knowledge trac",160,1
+"ladder",106,1
+"language learn",193,1
+"large lectur",176,1
+"latent semantics analysi",37,1
+"latent traits estim",93,1
+"layer-wise relevance propag",133,1
+"lda",42,1
+"leagu",129,1
+"learn",43,1
+"learn",161,1
+"learner trait",131,1
+"learninformat",102,1
+"learning across set",167,1
+"learning activity profil",115,1
+"learning analyt",1,90
+"learning analyt",3,20
+"learning analyt",4,28
+"learning analyt",5,5
+"learning analyt",6,3
+"learning analyt",7,10
+"learning analyt",9,6
+"learning analyt",10,5
+"learning analyt",12,2
+"learning analyt",16,2
+"learning analyt",17,1
+"learning analyt",20,1
+"learning analyt",22,1
+"learning analyt",23,2
+"learning analyt",24,1
+"learning analyt",25,1
+"learning analyt",35,1
+"learning analyt",38,3
+"learning analyt",42,1
+"learning analyt",49,2
+"learning analyt",52,1
+"learning analyt",53,1
+"learning analyt",59,2
+"learning analyt",63,1
+"learning analyt",64,1
+"learning analyt",65,2
+"learning analyt",68,2
+"learning analyt",71,2
+"learning analyt",76,1
+"learning analyt",77,1
+"learning analyt",81,1
+"learning analyt",88,1
+"learning analyt",89,1
+"learning analyt",91,1
+"learning analyt",92,1
+"learning analyt",93,1
+"learning analyt",94,1
+"learning analyt",97,1
+"learning analyt",102,1
+"learning analyt",104,1
+"learning analyt",106,1
+"learning analyt",107,1
+"learning analyt",115,1
+"learning analyt",117,1
+"learning analyt",123,1
+"learning analyt",126,1
+"learning analyt",146,1
+"learning analyt",148,1
+"learning analyt",155,1
+"learning analyt",158,1
+"learning analyt",159,1
+"learning analyt",162,1
+"learning analyt",174,1
+"learning analyt",176,1
+"learning analyt",182,1
+"learning analyt",183,1
+"learning analyt",185,1
+"learning analyt",186,1
+"learning analyt",188,1
+"learning analyt",190,1
+"learning analyt",191,1
+"learning analyt",194,1
+"learning analyt",999,2
+"learning at scal",80,1
+"learning curv",61,2
+"learning curv",153,1
+"learning disposit",63,1
+"learning disposit",170,1
+"learning management system",81,1
+"learning management system",174,1
+"learning node represent",25,1
+"learning object",136,1
+"learning with temporal data",72,1
+"lectur",145,1
+"lecturetool",43,1
+"legitimation code theori",104,1
+"lexical sophist",179,1
+"lifelong learn",167,1
+"like",182,1
+"limb trajectory analysi",103,1
+"linguist",164,1
+"linked data",24,1
+"linked scientometr",24,1
+"literaci",190,1
+"literaci",191,1
+"live feedback",97,1
+"live feedback",176,1
+"locus of control",44,1
+"log analysi",76,1
+"log analysi",87,1
+"log data",88,1
+"log file analysi",158,1
+"logistic model tre",73,1
+"logistic regress",25,1
+"longitudinal data",74,1
+"m5 regression tre",73,1
+"machine learn",18,1
+"machine learn",25,1
+"machine learn",75,1
+"machine learn",103,1
+"machine learn",175,1
+"machine learn",189,1
+"malaria",100,1
+"market trend",18,1
+"massed practic",168,1
+"math educ",105,2
+"mathemat",53,1
+"mathemat",168,1
+"mathematics educ",32,1
+"mathematics educ",47,2
+"mathematics educ",87,1
+"measur",32,1
+"measurement of learn",194,1
+"medical educ",146,1
+"mental health",45,1
+"metric",159,1
+"metric learn",34,1
+"minimum spanning tre",139,1
+"mobile appl",97,1
+"mobile appl",176,1
+"mobile develop",77,1
+"model",145,1
+"model",189,1
+"model misspecif",160,1
+"model transpar",54,1
+"mooc",24,1
+"mooc",117,1
+"mooc",126,1
+"mooc",154,1
+"mooc",157,1
+"mooc",164,1
+"motiv",117,1
+"motiv",161,1
+"mouse trajectori",141,1
+"multi-objective evolutionary algorithm",74,1
+"multi-scale commun",171,1
+"multi-step ahead forecast",69,1
+"multidiscipinar",162,1
+"multilayer network",171,1
+"multimodal learning analyt",57,2
+"multimodal sens",165,1
+"multiplicative interact",192,1
+"multivariate time series forecast",69,1
+"multivoc",162,1
+"national basketball associ",73,1
+"national hockey leagu",73,1
+"natural language process",2,10
+"natural language process",93,1
+"natural language process",163,1
+"natural language process",184,1
+"natural language process",186,1
+"neonatal car",110,1
+"networked improvement commun",116,2
+"neural network",62,1
+"neural network",75,1
+"neural network",130,1
+"neural network interpret",109,1
+"neural sequence model",109,1
+"neurofeedback",143,1
+"new media literaci",191,1
+"noisy data",43,1
+"non-negative tensor factor",60,1
+"nonstationary environ",75,1
+"notification system",131,1
+"occurrence of hesit",141,1
+"online curriculum",102,1
+"online discuss",24,1
+"online discussion forum",19,1
+"online learn",70,1
+"online math gam",44,1
+"online measur",70,1
+"online social network",48,1
+"online social network",112,1
+"online social network",172,1
+"online tutoring platform",105,2
+"ontolog",22,1
+"open",22,1
+"open badg",167,1
+"open digital badg",187,1
+"open learner model",52,1
+"open sourc",38,3
+"opencoursewar",137,1
+"operators life cycl",22,1
+"opportunities to learn",127,1
+"orchestration technolog",21,2
+"osbl",174,1
+"outdegree centr",159,1
+"parallel",101,1
+"participatory approaches to learning analyt",11,1
+"pass predict",120,1
+"pass predict",152,1
+"pedagogical interest",22,1
+"peer assess",122,1
+"peer evalu",11,1
+"peer evalu",122,1
+"peer grad",154,1
+"peer review",122,1
+"pen-based comput",53,1
+"perform",32,1
+"perform",66,1
+"performance assess",124,1
+"personal behavior",112,1
+"personal information management system",85,1
+"personalized dashboard",156,1
+"personalized emotional engag",39,1
+"personalized learn",39,1
+"personalized learn",94,1
+"physical learning analyt",89,1
+"physiological data",70,1
+"player rank",73,1
+"player valu",90,2
+"poisson model",35,1
+"portfolio select",169,1
+"power bi",156,1
+"power queri",156,1
+"pre-service teach",98,1
+"predict",43,1
+"predicting student perform",17,1
+"predicting student perform",99,1
+"prediction challeng",120,1
+"predictive analyt",6,3
+"predictive analyt",108,1
+"predictive analyt",183,1
+"predictive model",45,1
+"predictive model",91,1
+"prefer",85,1
+"prerequisite infer",144,1
+"preschool",44,1
+"privaci",85,1
+"privacy metr",172,1
+"privacy preserving data min",138,1
+"private evalu",138,1
+"probabilistic student model",43,1
+"problem-based learn",146,1
+"process analysi",22,1
+"process analysi",32,1
+"process min",102,1
+"professional develop",167,1
+"professional develop",177,1
+"program",21,2
+"progress",66,1
+"promot",182,1
+"q-matrix",142,1
+"quality assess",137,1
+"quality cont",182,1
+"quality metr",137,1
+"quantified self",97,1
+"quantified self",119,1
+"quantified self",176,1
+"question organ",22,1
+"question taxonomi",22,1
+"random forest",75,1
+"random forest",138,1
+"random forest classif",25,1
+"randomized algorithm",169,1
+"rank",122,1
+"rank",129,1
+"rasch model",121,1
+"rate",122,1
+"rational numb",32,1
+"reading analyt",30,2
+"reading app",30,2
+"reading compet",20,1
+"reading comprehens",96,1
+"real-tim",186,1
+"real-time system",175,1
+"real-world learn",165,1
+"real tim",186,1
+"recurrent neural network",175,1
+"reflect",42,1
+"reflective learn",97,1
+"reflective writ",184,1
+"reflective writing analyt",184,1
+"regress",35,1
+"regress",42,1
+"regulation strategi",170,1
+"reliabl",122,1
+"reproduc",22,1
+"research design",161,1
+"researcher-practitioner partnership",92,1
+"reservoir comput",72,1
+"response-based feedback",87,1
+"responsible analyt",54,1
+"retent",44,1
+"reus",22,1
+"rhetorical structur",109,1
+"risk predict",183,1
+"rmse model",135,1
+"rubric",132,1
+"rule spac",142,1
+"satisfact",45,1
+"scalabl",189,1
+"scale",122,1
+"science classroom inquiry simul",179,1
+"science epistemolog",179,1
+"science learn",167,1
+"science practic",179,1
+"scientific inquiri",158,1
+"scientific model",28,2
+"scientific reason",131,1
+"secure multi-party comput",138,1
+"self-data",85,1
+"self-expect",131,1
+"self-regulated learn",12,2
+"self-regulated learn",91,1
+"self-report",39,1
+"self-reported affect",19,1
+"semant",24,1
+"sensor",60,1
+"sentiment analysi",62,1
+"sentiment analysi",186,1
+"sequential model",42,1
+"share",22,1
+"sift",31,1
+"simul",43,1
+"skill relationship",56,1
+"smartphon",110,1
+"social blog",182,1
+"social learn",174,1
+"social learning analyt",191,1
+"social media",62,1
+"social media",71,2
+"social media",191,1
+"social network analysi",89,1
+"social network analysi",146,1
+"social network analysi",159,1
+"sociocultural theori",119,1
+"sociology of educ",104,1
+"spacing effect",35,1
+"spark",101,1
+"sparse model",169,1
+"spatial information distribut",165,1
+"spatio-temporal dens",75,1
+"spatiotemporal data",175,1
+"spectral graph wavelet",171,1
+"spectral metr",34,1
+"sports analyt",90,2
+"sports analyt",175,1
+"stability select",74,1
+"stem educ",35,1
+"stem educ",102,1
+"stem educ",167,1
+"stock market",62,1
+"strategi",43,1
+"strategic plan",94,1
+"strategy us",70,1
+"strike technique classif",103,1
+"string distance metr",132,1
+"structural equation model",74,1
+"structural equation model",117,1
+"student",145,1
+"student",186,1
+"student's ne",22,1
+"student's profil",22,1
+"student's quest",22,1
+"student-authored materi",14,1
+"student assess",14,1
+"student clickstream data",35,1
+"student engag",91,1
+"student enrollment sequ",99,1
+"student feedback",121,1
+"student model",43,1
+"student model",153,1
+"student ne",104,1
+"student online behavior",131,1
+"student profil",63,1
+"student represent",41,1
+"student retent",42,1
+"student success",132,1
+"student success",189,1
+"student’s behavior",22,1
+"students' assessment perform",123,1
+"students' perform",66,1
+"study log",141,1
+"study skil",35,1
+"supervisedlda",114,1
+"supervision learn",192,1
+"survival analysi",42,1
+"syllabus",114,1
+"symbolic represent",128,1
+"synthetic individual data",82,1
+"taal",179,1
+"teacher's percept",22,1
+"teacher prepar",177,1
+"teaching/learning strategi",17,1
+"teamwork",46,2
+"teamwork",124,1
+"technology adopt",108,1
+"technology enhanced learn",162,1
+"tempor",89,1
+"temporal analysi",41,1
+"temporal coher",192,1
+"temporal network",60,1
+"temporal network",146,1
+"temporal network",171,1
+"temporal reason",127,1
+"temporarili",146,1
+"test directed learn",63,1
+"text-based learning analyt",33,3
+"text classif",19,1
+"text classif",24,1
+"text min",42,1
+"text min",186,1
+"text similar",48,1
+"time-dependent evaluation framework",66,1
+"time-dependent mean-revers",130,1
+"time-series analysi",158,1
+"time management strategi",88,1
+"time seri",34,1
+"time seri",100,1
+"time seri",128,1
+"time series classif",31,1
+"time to degre",99,1
+"time to degree predict",99,1
+"timeliness devi",66,1
+"topic model",24,1
+"topic model",42,1
+"tournament",11,1
+"tournament simul",150,1
+"transaction level data",78,1
+"translational mot",192,1
+"trust",54,1
+"uncertainti",42,1
+"undergraduate educ",99,1
+"underrepresented stud",35,1
+"univers",154,1
+"unizin",186,1
+"usabl",106,1
+"user centred design",106,1
+"user experi",106,1
+"valid",122,1
+"valid",154,1
+"valid",194,1
+"vertically partitioned data",138,1
+"video",11,1
+"video analyt",164,1
+"video annotation tool",111,1
+"virtual human",83,1
+"virtual learning environ",70,1
+"virtual learning environ",177,1
+"virtual manipul",113,1
+"virtual r",143,1
+"virtual world",98,1
+"visual",52,1
+"visual",111,1
+"visual",155,1
+"visual",174,1
+"visual analyt",14,1
+"visual represent",53,1
+"visualis",106,1
+"visualization dashboard",126,1
+"visualizer-verb",43,1
+"volatility forecast",69,1
+"web crawl",18,1
+"web lectur",17,1
+"wheelspin",43,1
+"wiki",8,3
+"work readi",87,1
+"working with comput",87,1
+"write",148,1
+"writing-to-learn",163,1
+"writing feedback",109,1
+"x-means clust",66,1
+"xerox ignite™",107,1

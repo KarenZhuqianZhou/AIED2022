@@ -1,0 +1,1762 @@
+"Stem","Freq_13_20","Freq_13_14","Freq_15_16","Freq_17_18","Freq_19_20"
+"aav",1,0,1,0,0
+"abductive reason",1,1,0,0,0
+"ability measur",1,0,0,1,0
+"abstract",1,0,0,1,0
+"abstract syntax tre",3,1,0,2,0
+"academic achiev",1,0,0,0,1
+"academic emot",1,1,0,0,0
+"academic engag",1,0,0,1,0
+"academic languag",1,0,0,1,0
+"academic perform",2,0,0,1,1
+"access",1,0,0,1,0
+"achievement emot",2,0,1,0,1
+"achievement go",1,0,0,1,0
+"acoust",1,0,0,0,1
+"action choic",1,0,1,0,0
+"active learn",1,0,0,0,1
+"active learning for classif",1,0,0,1,0
+"active video watch",1,0,0,1,0
+"activity-state model",1,0,0,1,0
+"adapt",8,2,1,2,3
+"adaptation of problem",1,1,0,0,0
+"adaptation of resourc",1,0,0,1,0
+"adaptive assess",1,0,0,0,1
+"adaptive behaviour",1,1,0,0,0
+"adaptive coach",1,0,0,1,0
+"adaptive collaborative learning support",1,0,0,0,1
+"adaptive collaborative learning support (acls)",1,0,0,0,1
+"adaptive educational hypermedia",1,1,0,0,0
+"adaptive feedback",3,1,0,2,0
+"adaptive flashcard",1,0,0,1,0
+"adaptive instruct",1,0,1,0,0
+"adaptive it",1,1,0,0,0
+"adaptive learn",5,0,0,2,3
+"adaptive learning system",1,0,0,0,1
+"adaptive navigation support",1,0,1,0,0
+"adaptive scaffold",3,1,1,0,1
+"adaptive script",1,1,0,0,0
+"adaptive strategi",1,0,0,1,0
+"adaptive support",1,0,0,0,1
+"adaptive system",1,0,1,0,0
+"adaptive test",2,1,1,0,0
+"adaptive train",1,1,0,0,0
+"adaptive tutor",6,1,2,1,2
+"adaptive tutoring system",1,0,1,0,0
+"adaptive visu",1,0,0,1,0
+"additive factor model",1,0,0,1,0
+"additive factors model",1,0,0,0,1
+"adhd",1,0,1,0,0
+"adoption-based research",1,1,0,0,0
+"adult literaci",1,0,0,1,0
+"advanced learning technolog",1,1,0,0,0
+"adversarial attack",1,0,0,0,1
+"affect",19,9,6,2,2
+"affect and behavior detect",1,0,0,1,0
+"affect chang",1,0,0,1,0
+"affect detect",5,0,0,1,4
+"affect dynam",3,0,0,1,2
+"affect model",2,2,0,0,0
+"affect recognit",1,1,0,0,0
+"affect st",1,0,0,1,0
+"affective aspects of learn",1,1,0,0,0
+"affective backchannel",2,0,0,1,1
+"affective comput",6,1,3,2,0
+"affective engag",1,0,0,1,0
+"affective learning companion",2,1,0,1,0
+"affective model",1,0,0,0,1
+"affective st",5,1,2,2,0
+"affective state label",1,0,0,1,0
+"affili",1,0,0,1,0
+"agent",3,0,1,1,1
+"agent-based model",1,0,0,0,1
+"agent-based modeling and simul",1,1,0,0,0
+"agent-directed emot",1,0,1,0,0
+"agent languag",1,0,0,0,1
+"ai",1,0,0,0,1
+"ai enabled tutor",1,0,0,0,1
+"aie",1,0,0,0,1
+"algebra",2,1,0,1,0
+"alic",1,0,0,1,0
+"align",2,0,0,1,1
+"alternating least squares matrix factor",1,1,0,0,0
+"analogical reason",1,0,0,0,1
+"analysi",1,0,0,1,0
+"analyt",1,0,0,1,0
+"androgyni",1,1,0,0,0
+"android",1,0,0,1,0
+"anim",1,0,0,1,0
+"animated pedagogical ag",1,0,0,1,0
+"animated pedagogical agent (apa)",1,0,0,1,0
+"annotation softwar",1,0,0,1,0
+"annotation studi",1,0,0,0,1
+"answer assess",1,0,0,0,1
+"answer match",1,0,0,0,1
+"answer set program",2,0,0,0,2
+"anticip",1,0,0,1,0
+"aplusix",1,1,0,0,0
+"applied behavior analysi",1,1,0,0,0
+"apprentice learn",1,0,0,0,1
+"aptitude-treatment interact",1,1,0,0,0
+"architectur",1,0,0,1,0
+"area under curv",1,0,1,0,0
+"argument",3,0,2,1,0
+"argument diagram",1,1,0,0,0
+"argumentative writ",1,0,0,0,1
+"arithmetic addit",1,0,0,0,1
+"arithmetical word problem",1,1,0,0,0
+"arous",1,0,0,1,0
+"artificial intellig",12,2,3,3,4
+"artificial neural network",1,0,1,0,0
+"asl",1,0,0,0,1
+"asr engine evalu",1,0,1,0,0
+"assembly skil",1,1,0,0,0
+"assess",8,1,3,3,1
+"assist",2,0,0,1,1
+"assistance dilemma",1,0,1,0,0
+"assistive and augmentative communication (aac)",1,1,0,0,0
+"association rule min",1,0,0,1,0
+"at-risk stud",1,0,0,0,1
+"attendance r",1,0,0,0,1
+"attent",5,0,1,1,3
+"attention-aware interfac",1,0,1,0,0
+"attention aware interfac",1,0,0,1,0
+"attrition bia",1,0,0,1,0
+"audience participation tool",1,0,0,1,0
+"audio process",1,0,0,0,1
+"augmented artwork",1,1,0,0,0
+"augmented eth",1,0,0,0,1
+"augmented intellig",1,0,0,0,1
+"augmented r",4,2,0,1,1
+"author identif",1,0,1,0,0
+"authoring tool",8,2,2,2,2
+"autism",3,3,0,0,0
+"auto-grad",1,0,0,1,0
+"automate assess",1,0,1,0,0
+"automated assess",2,1,0,0,1
+"automated deduct",1,0,1,0,0
+"automated essay scor",3,0,0,1,2
+"automated evalu",1,0,0,1,0
+"automated feedback",3,1,0,0,2
+"automated mark",1,1,0,0,0
+"automated metr",1,0,0,1,0
+"automated performance assess",1,0,0,1,0
+"automated performance feedback",2,0,0,0,2
+"automated program analysi",1,0,0,1,0
+"automated real-time feedback",1,0,0,1,0
+"automated revision graph",1,0,0,0,1
+"automated short answer grad",2,0,0,0,2
+"automated speech analysi",1,0,0,0,1
+"automated team form",1,0,0,1,0
+"automated test",1,0,0,1,0
+"automated tutoring system",1,0,0,1,0
+"automated writing evalu",3,0,2,0,1
+"automatic assess",4,0,0,3,1
+"automatic diagnost",1,1,0,0,0
+"automatic evalu",1,0,0,0,1
+"automatic exercise gener",1,0,1,0,0
+"automatic feedback",1,0,1,0,0
+"automatic grad",1,0,0,1,0
+"automatic item gener",3,0,0,1,2
+"automatic quality evalu",1,0,1,0,0
+"automatic question gener",1,0,0,0,1
+"automatic short answer grad",2,0,0,0,2
+"automentor",1,1,0,0,0
+"autonomi",1,0,0,0,1
+"autotutor",1,1,0,0,0
+"avatar",1,0,0,1,0
+"average error r",1,0,1,0,0
+"axiomatic approach",1,0,1,0,0
+"barriers to adopt",1,1,0,0,0
+"basic emot",1,0,0,0,1
+"bay",1,0,0,0,1
+"bayesian diagnosis trac",1,0,0,0,1
+"bayesian knowledge trac",4,1,0,0,3
+"bayesian network",8,3,2,1,2
+"bayesian statist",1,1,0,0,0
+"behavior",2,0,0,1,1
+"behavior pattern",1,0,0,1,0
+"behavioral engagement detect",1,0,0,1,0
+"behavioral explanation and structural explan",1,0,0,1,0
+"behavioral log",1,0,0,0,1
+"behavioural clon",1,0,0,0,1
+"behavioural trend",1,0,0,0,1
+"belief bia",1,0,0,0,1
+"bert",2,0,0,0,2
+"bert classification algorithm",1,0,0,0,1
+"best practice model",1,0,0,1,0
+"betty’s brain",1,0,0,1,0
+"big clam",1,0,0,1,0
+"big five factor",1,0,0,1,0
+"bing speech",1,0,1,0,0
+"biosensor",1,0,0,1,0
+"bkt",2,0,0,2,0
+"blended learn",2,0,2,0,0
+"blended learning environ",1,0,0,1,0
+"blind search algorithm",1,1,0,0,0
+"block",1,0,1,0,0
+"block-based program",1,0,0,0,1
+"bootstrap",1,0,0,0,1
+"boredom",4,3,0,1,0
+"brainstorm",1,1,0,0,0
+"buggy messag",1,0,1,0,0
+"call",1,0,0,1,0
+"camm process",1,0,0,0,1
+"capability profil",1,0,0,1,0
+"capability requir",1,0,0,1,0
+"case studi",2,0,1,0,1
+"categor",1,0,0,1,0
+"causal cod",1,0,0,1,0
+"causal reason",1,1,0,0,0
+"causal rel",1,0,1,0,0
+"cauti",1,0,0,0,1
+"challeng",1,0,0,1,0
+"change-point detect",1,0,0,0,1
+"chatbot",2,0,0,1,1
+"chem tutor",1,0,1,0,0
+"chemistri",1,0,1,0,0
+"child-robot interact",1,0,0,0,1
+"children",3,2,0,0,1
+"choic",2,0,2,0,0
+"choice of practice problem",1,0,0,0,1
+"citizen sci",1,0,0,1,0
+"clabsi",1,0,0,0,1
+"class-skill model",1,1,0,0,0
+"class activity detect",1,0,0,0,1
+"classif",2,1,0,0,1
+"classroom",1,0,1,0,0
+"classroom cours",1,0,0,0,1
+"classroom evalu",4,2,0,1,1
+"classroom observ",1,0,1,0,0
+"classroom orchestr",3,0,0,1,2
+"classroom orchestration system",1,0,0,0,1
+"classroom studi",2,0,1,1,0
+"clinical reason",1,0,1,0,0
+"clique problem",1,0,1,0,0
+"closing the loop",1,0,0,1,0
+"cloze",1,0,1,0,0
+"cluster",6,0,1,2,3
+"cluster analysi",1,1,0,0,0
+"clustering algorithm",1,1,0,0,0
+"code-switch",2,0,1,1,0
+"code read",1,0,0,0,1
+"coding analysi",1,1,0,0,0
+"cognitive apprenticeship",1,0,1,0,0
+"cognitive control",1,0,0,0,1
+"cognitive diagnosi",1,0,1,0,0
+"cognitive disequilibrium",1,1,0,0,0
+"cognitive effort",1,0,1,0,0
+"cognitive engag",2,0,0,1,1
+"cognitive error",1,0,1,0,0
+"cognitive graph",1,0,0,0,1
+"cognitive load",3,0,0,1,2
+"cognitive model",4,2,1,0,1
+"cognitive sci",1,0,0,0,1
+"cognitive science societi",1,1,0,0,0
+"cognitive skil",2,0,0,2,0
+"cognitive task analysi",2,0,0,2,0
+"cognitive tutor",6,1,0,4,1
+"cognitive tutor authoring tool",1,0,0,1,0
+"coherence analysi",2,0,1,1,0
+"cohes",2,1,1,0,0
+"cohesion network analysi",5,0,0,2,3
+"cold start",2,0,0,1,1
+"collabor",12,2,3,5,2
+"collaborative discours",1,0,0,0,1
+"collaborative filt",2,1,1,0,0
+"collaborative filtering method",1,0,1,0,0
+"collaborative game-based learn",1,0,0,0,1
+"collaborative intelligent tutoring system",1,0,0,1,0
+"collaborative learn",20,1,4,7,8
+"collaborative problem solv",2,0,0,1,1
+"collaborative problem solving (cps)",1,0,0,1,0
+"collaborative program",1,0,0,0,1
+"collaborative reflect",1,0,1,0,0
+"college-level educ",1,0,0,0,1
+"college course classif",1,0,0,1,0
+"comments data min",1,0,1,0,0
+"communication strategi",2,0,0,1,1
+"community of inquiri",1,0,0,0,1
+"community of inquiry model",1,0,0,1,0
+"comparative learn",1,0,1,0,0
+"compet",1,0,0,1,0
+"competence develop",1,0,0,1,0
+"competit",1,0,0,1,0
+"compilation error",1,0,0,0,1
+"compiler design",1,0,1,0,0
+"compound schem",1,0,0,1,0
+"comprehension model",1,0,0,0,1
+"comprehension predict",1,0,1,0,0
+"computational linguist",3,1,1,0,1
+"computational model",2,0,0,0,2
+"computational model-build",1,0,0,0,1
+"computational think",9,2,1,5,1
+"compute pearson correl",1,0,1,0,0
+"computer-based exam",1,0,0,0,1
+"computer-based learn",1,0,0,0,1
+"computer-based learning environ",1,0,1,0,0
+"computer-supported collaborative learn",3,1,0,0,2
+"computer adaptive test",1,0,0,1,0
+"computer assisted language learn",1,0,0,0,1
+"computer graph",1,0,0,1,0
+"computer program",2,1,0,0,1
+"computer sci",3,1,1,1,0
+"computer science educ",6,2,1,1,2
+"computer support cooperative work",1,0,1,0,0
+"computer supported collaborative learn",2,0,0,1,1
+"computer vis",2,0,0,1,1
+"computerize adaptive test",1,0,1,0,0
+"computerized adaptive test",2,1,0,0,1
+"computing educ",2,0,0,1,1
+"concept-based student model",1,1,0,0,0
+"concept map",7,1,2,1,3
+"concept map assessment method",1,0,0,1,0
+"conceptual and perceptual process",1,0,1,0,0
+"conceptual cod",1,0,0,1,0
+"conceptual database design",1,0,0,0,1
+"conceptual knowledg",1,1,0,0,0
+"conceptual learn",1,0,0,1,0
+"conceptual model",1,0,0,1,0
+"conceptual phys",1,1,0,0,0
+"conceptual sali",1,0,0,0,1
+"conceptual think",1,0,0,1,0
+"confid",1,0,0,0,1
+"confidence tag",1,0,0,1,0
+"confirmation bia",1,1,0,0,0
+"confus",4,1,0,0,3
+"confusion resolut",1,0,1,0,0
+"connection mak",2,1,1,0,0
+"conscienti",1,0,0,0,1
+"constraint-based model",1,0,0,1,0
+"constraint based model",1,0,0,1,0
+"constraint handling rules (chr)",1,0,1,0,0
+"constructed respons",1,0,0,1,0
+"construction",1,0,0,1,0
+"constructiv",2,0,1,0,1
+"constructive feedback",1,0,0,0,1
+"contemporary educational psycholog",1,0,1,0,0
+"content analysi",2,0,0,1,1
+"content evalu",1,0,0,0,1
+"content recommend",1,0,1,0,0
+"context model",1,0,0,0,1
+"contextual effect",1,1,0,0,0
+"contingent scaffold",2,0,0,0,2
+"control variable strategi",1,0,0,1,0
+"controlled studi",1,0,0,0,1
+"converg",1,0,0,1,0
+"convers",1,1,0,0,0
+"conversation-based assess",1,0,0,1,0
+"conversational ag",4,0,0,1,3
+"conversational dialog system",1,0,0,1,0
+"conversational pedagogical ag",1,0,0,0,1
+"cooper",1,0,0,0,1
+"core expertis",1,0,0,1,0
+"coreference link",1,0,0,0,1
+"corpus linguist",2,1,1,0,0
+"corrected condit",1,0,1,0,0
+"counter-argu",1,0,0,0,1
+"counterexampl",1,0,0,1,0
+"counterintuitive reason",1,0,0,0,1
+"course author",1,0,0,1,0
+"course evalu",1,0,0,1,0
+"crf",1,1,0,0,0
+"critical constructive feedback",1,0,0,0,1
+"critical situ",1,0,0,1,0
+"critical think",2,0,0,0,2
+"cross-cultur",1,0,0,1,0
+"cross-recurrence quantif",1,0,0,1,0
+"cross-reference pattern",1,0,0,0,1
+"crowd-sourcing authoring tool",1,1,0,0,0
+"crowdsourc",3,0,0,0,3
+"cs1",4,0,0,3,1
+"cs2",1,0,0,1,0
+"cscl",1,1,0,0,0
+"cultur",4,1,1,2,0
+"cultural clust",1,0,0,1,0
+"cultural differ",1,0,0,1,0
+"curios",1,0,0,0,1
+"curriculum",1,0,0,0,1
+"cusum",1,0,0,0,1
+"cybersecur",1,0,0,0,1
+"dashboard",4,0,0,3,1
+"data-driven",2,0,1,1,0
+"data-driven analysi",1,0,0,1,0
+"data-driven approach",1,0,0,1,0
+"data-driven hint",2,0,0,1,1
+"data-driven instruct",1,0,0,1,0
+"data-driven teacher support",1,0,0,1,0
+"data-informed decis",1,0,0,0,1
+"data annotation and collection cost",1,0,0,1,0
+"data drift",1,0,0,0,1
+"data drive approach",1,1,0,0,0
+"data fus",1,0,0,0,1
+"data min",7,2,3,0,2
+"data mining and machine learn",1,1,0,0,0
+"data preprocess",1,0,0,0,1
+"data sci",1,0,0,0,1
+"data storytel",1,0,0,0,1
+"data structur",3,0,1,2,0
+"data visu",3,0,0,1,2
+"dataset",1,0,0,0,1
+"dbgl",1,0,0,1,0
+"decim",2,1,0,0,1
+"decimal numb",1,0,0,0,1
+"decision support tool",1,0,0,0,1
+"decision theori",1,1,0,0,0
+"decision tre",1,0,0,0,1
+"deductive reasoning skil",1,0,0,1,0
+"deep autoencod",1,0,0,1,0
+"deep knowledge trac",3,0,0,1,2
+"deep learn",17,0,1,7,9
+"deep learning model",1,0,0,1,0
+"deep neural network",5,0,0,1,4
+"deep reinforcement learn",1,0,0,0,1
+"dependency pars",1,0,1,0,0
+"design",4,2,1,0,1
+"design and formative studies of aied system",1,1,0,0,0
+"design featur",1,1,0,0,0
+"design of elearning system",1,1,0,0,0
+"designing scaffold",1,1,0,0,0
+"development of cognit",1,0,0,1,0
+"deviance information criterion",1,1,0,0,0
+"diagnostic assess",1,0,0,1,0
+"dialect",2,1,1,0,0
+"dialog",1,0,0,0,1
+"dialog based tutor",1,0,0,1,0
+"dialog construct",1,0,0,1,0
+"dialogic instruct",1,0,0,0,1
+"dialogu",3,2,0,0,1
+"dialogue-based tutoring system",4,0,0,1,3
+"dialogue act classif",1,0,1,0,0
+"dialogue analysi",1,0,0,0,1
+"dialogue based tutoring system",1,0,0,1,0
+"dialogue breakdown detect",1,0,0,0,1
+"dialogue mod",1,0,1,0,0
+"dialogue system",3,1,0,0,2
+"dialogue transit",1,1,0,0,0
+"difficulty factor",1,1,0,0,0
+"difficulty factors assess",2,0,0,2,0
+"digital assistive tool",1,0,0,0,1
+"digital divid",1,1,0,0,0
+"digital learning gam",3,0,0,0,3
+"digital librari",1,1,0,0,0
+"digital media",2,0,0,2,0
+"digital resourc",1,0,1,0,0
+"digital scratchpad",1,0,0,0,1
+"digital storytel",1,1,0,0,0
+"digital transform",1,0,0,0,1
+"discours",3,0,1,1,1
+"discourse cont",1,0,0,0,1
+"discoveri",1,1,0,0,0
+"discrep",2,2,0,0,0
+"discussion forum",1,0,1,0,0
+"disengag",1,1,0,0,0
+"distractor",1,0,1,0,0
+"distributed system",1,1,0,0,0
+"diversity analyt",1,0,0,1,0
+"doc2vec",1,0,0,0,1
+"doing scienc",1,0,0,1,0
+"domain-specific learning appl",1,1,0,0,0
+"domain characterist",1,1,0,0,0
+"domain knowledg",1,0,0,1,0
+"domain model",1,0,1,0,0
+"domain modul",1,0,1,0,0
+"domain reason",1,0,0,0,1
+"dragoon",1,0,0,1,0
+"drill down analysi",1,0,0,0,1
+"drop-out predict",1,0,0,1,0
+"dropout",2,0,0,0,2
+"dropout predict",1,0,0,1,0
+"dummy sentence card",1,1,0,0,0
+"dutch semantic model",1,0,0,1,0
+"dynamic assess",1,0,1,0,0
+"dynamic commun",1,0,1,0,0
+"dynamic graph",1,0,0,0,1
+"dynamic open-ended learning environ",1,0,1,0,0
+"dyscalculia",1,1,0,0,0
+"e-assess",2,2,0,0,0
+"e-educ",1,0,0,0,1
+"e-learn",5,0,1,2,2
+"e-learning system",1,1,0,0,0
+"e-test",2,1,0,0,1
+"early detect",1,0,0,0,1
+"early dropout predict",1,0,0,1,0
+"early math",1,0,1,0,0
+"early warning system",1,0,0,0,1
+"ecgd",1,0,1,0,0
+"ecolog",2,0,0,1,1
+"ecological approach",2,1,1,0,0
+"eda featur",1,0,0,0,1
+"edit dist",1,0,0,0,1
+"editor rol",1,0,0,0,1
+"edm",1,0,0,0,1
+"educ",6,0,0,1,5
+"education technolog",1,0,0,0,1
+"educational affect",1,0,0,0,1
+"educational appl",1,0,0,1,0
+"educational argumentation system",1,1,0,0,0
+"educational assess",1,1,0,0,0
+"educational cont",1,0,1,0,0
+"educational data analysi",1,0,0,1,0
+"educational data min",23,3,8,8,4
+"educational data mining (edm)",1,0,0,1,0
+"educational data sci",1,0,0,1,0
+"educational dialogue analysi",1,0,0,0,1
+"educational gam",11,4,2,5,0
+"educational measur",1,0,0,1,0
+"educational neurosci",1,0,0,0,1
+"educational process mining (epm)",1,0,0,1,0
+"educational quest",1,0,0,1,0
+"educational question answ",1,0,1,0,0
+"educational question gener",1,0,0,0,1
+"educational recommend",1,0,0,0,1
+"educational recommender system",1,0,0,1,0
+"educational scenario",1,0,1,0,0
+"educational softwar",2,0,1,1,0
+"educational system",2,0,0,1,1
+"educational technolog",3,3,0,0,0
+"educational technology design",2,0,1,1,0
+"educational virtual world",2,0,0,2,0
+"edx",1,0,0,1,0
+"effect s",1,1,0,0,0
+"effectiveness evalu",1,1,0,0,0
+"effectiveness of itss",1,1,0,0,0
+"efficaci",2,0,0,2,0
+"effort",1,0,0,0,1
+"eip",1,0,0,0,1
+"electrical engin",1,0,0,1,0
+"electrodermal act",1,0,0,1,0
+"elements of gamif",1,0,0,0,1
+"embedded assess",1,1,0,0,0
+"embedded experi",1,1,0,0,0
+"embodi",1,0,0,1,0
+"embodied cognit",2,0,0,1,1
+"embodied conversational ag",2,1,0,0,1
+"emot",10,3,5,1,1
+"emotion-aware system",1,0,1,0,0
+"emotion detect",1,0,1,0,0
+"emotion recognit",1,0,0,0,1
+"emotion recognition engin",1,0,0,1,0
+"emotion regul",1,0,1,0,0
+"emotion self-report",1,0,0,1,0
+"emotional clar",1,0,0,0,1
+"emotional self-regulation skil",1,0,0,1,0
+"empirical evalu",1,1,0,0,0
+"empirical studi",2,1,1,0,0
+"encyclopedia of lif",1,0,0,1,0
+"engag",12,3,3,3,3
+"engaged concentr",3,2,1,0,0
+"engagement behavior",1,1,0,0,0
+"engineering design",1,0,0,0,1
+"english article system",1,1,0,0,0
+"english language learner (ell)",1,0,0,1,0
+"enhanced discovery learn",1,1,0,0,0
+"enjoy",1,0,0,0,1
+"enthusiasm",1,1,0,0,0
+"entity vector embed",1,0,0,0,1
+"entrain",2,0,0,1,1
+"epistemic network analysi",2,0,0,1,1
+"erroneous exampl",5,1,1,1,2
+"error-based simul",1,0,0,1,0
+"error-flagging feedback",1,0,0,0,1
+"error analysi",1,0,0,0,1
+"error diagnosi",3,1,0,2,0
+"error record",1,0,1,0,0
+"errors and learn",1,0,0,1,0
+"essay writ",1,0,0,0,1
+"ethic",3,0,0,0,3
+"ethics educ",1,1,0,0,0
+"evalu",6,3,1,2,0
+"evidence-centered design",1,0,0,0,1
+"evsi",1,1,0,0,0
+"example usag",1,0,1,0,0
+"executive funct",1,0,0,0,1
+"exercise system",1,1,0,0,0
+"expected characteristics of answ",1,0,0,1,0
+"experimental studi",2,0,0,1,1
+"expert knowledge bas",2,2,0,0,0
+"expert skeleton map",1,0,1,0,0
+"expertis",1,0,0,0,1
+"explainable ai",1,0,0,0,1
+"explan",1,0,0,0,1
+"explanation skil",1,0,0,1,0
+"exploratory data analysi",1,0,0,0,1
+"exploratory essay",1,0,0,1,0
+"exploratory learn",2,0,1,1,0
+"exploratory learning environ",5,0,2,2,1
+"exploratory talk",1,0,0,0,1
+"extensive read",1,0,0,1,0
+"eye-track",5,1,0,2,2
+"eye-tracking studi",1,0,0,0,1
+"eye gaze data analysi",1,0,1,0,0
+"eye track",5,1,2,0,2
+"face-to-face collabor",1,1,0,0,0
+"facial action code system",1,1,0,0,0
+"facial expression recognit",1,0,1,0,0
+"facilit",1,1,0,0,0
+"factor analysi",1,0,0,1,0
+"fallaci",1,0,0,0,1
+"false feedback",1,1,0,0,0
+"fate",1,0,0,0,1
+"feature engin",1,0,0,1,0
+"feature fus",1,0,0,1,0
+"feature process",1,1,0,0,0
+"feature rank",1,0,1,0,0
+"feature select",2,1,0,1,0
+"feedback",9,1,3,2,3
+"feedback choic",1,0,1,0,0
+"feedback improv",1,0,0,1,0
+"feedback medium",1,0,1,0,0
+"feedback neglect",1,0,0,0,1
+"feedback provis",1,1,0,0,0
+"feedback support",1,0,0,1,0
+"feeling of difficulty (fod)",1,0,0,0,1
+"felder-silverman learning style model",1,0,1,0,0
+"female stud",1,1,0,0,0
+"fill in the blank",1,0,1,0,0
+"first order log",2,0,2,0,0
+"flow",1,0,0,0,1
+"foreign languag",1,0,0,1,0
+"forgetting curv",3,0,0,0,3
+"formal",3,0,0,2,1
+"formal domain",1,0,1,0,0
+"formative assess",3,1,1,0,1
+"formative feedback",1,1,0,0,0
+"forum post",1,1,0,0,0
+"fraction addit",1,1,0,0,0
+"fraction learn",1,0,0,1,0
+"framework",1,0,0,0,1
+"frequent pattern min",1,0,0,0,1
+"frustrat",6,2,0,1,3
+"funtoot",2,0,0,1,1
+"fuzzy log",1,0,0,1,0
+"g2p",1,0,0,0,1
+"galvanic skin response wristband",1,0,0,1,0
+"game",3,0,0,2,1
+"game-based assess",1,0,1,0,0
+"game-based featur",1,1,0,0,0
+"game-based learn",20,3,5,4,8
+"game-based learning environ",8,0,2,2,4
+"game-based practic",1,0,0,1,0
+"game mechan",1,1,0,0,0
+"game perform",1,0,0,0,1
+"gamif",14,0,3,3,8
+"gamification analyt",2,0,0,0,2
+"gamified intelligent tutoring system",1,0,0,1,0
+"gaming the system",5,1,0,3,1
+"gated recurrent unit (gru)",1,0,0,0,1
+"gaze",1,0,0,0,1
+"gaze behavior",1,0,0,0,1
+"gdpr",1,0,0,0,1
+"gender",4,0,1,2,1
+"gender differ",1,0,0,0,1
+"gender in stem",1,0,0,0,1
+"general",1,0,0,1,0
+"generaliz",1,0,0,0,1
+"generalization support",1,0,1,0,0
+"generative strategi",1,0,0,1,0
+"generic user model",1,0,1,0,0
+"genet",1,0,0,1,0
+"genetic counsel",1,0,0,0,1
+"genetic process",1,1,0,0,0
+"genetic risk commun",1,0,0,0,1
+"genetics educ",1,1,0,0,0
+"geometri",1,1,0,0,0
+"gestur",1,1,0,0,0
+"gesture-based interact",1,1,0,0,0
+"goal-oriented practic",1,0,0,1,0
+"goal related act",1,1,0,0,0
+"google speech",1,0,1,0,0
+"grade predict",1,0,0,0,1
+"grader agr",1,0,0,1,0
+"graduate stud",1,1,0,0,0
+"graph community detect",1,0,0,1,0
+"graph visu",1,0,0,0,1
+"graphic",1,1,0,0,0
+"graphical represent",1,1,0,0,0
+"grit",1,0,0,1,0
+"group communication analysi",1,0,0,0,1
+"group composit",1,0,0,1,0
+"group conversational ag",1,0,0,0,1
+"group form",2,0,0,1,1
+"group interact",1,0,0,1,0
+"group learn",1,0,0,1,0
+"group mentorship",1,1,0,0,0
+"group process",1,0,0,0,1
+"growth in inquiry perform",1,0,0,0,1
+"guided practic",1,1,0,0,0
+"hands-on",1,0,0,1,0
+"haptic",1,0,0,1,0
+"hci",2,2,0,0,0
+"health literaci",1,0,0,0,1
+"health numeraci",1,0,0,0,1
+"healthcar",1,0,0,0,1
+"heart rat",1,0,1,0,0
+"help-giving-behavior",1,0,0,0,1
+"help-seek",4,0,1,3,0
+"help polici",1,1,0,0,0
+"help seek",2,1,1,0,0
+"heterogeneous trac",1,0,1,0,0
+"heurist",1,0,0,0,1
+"heuristic search",1,1,0,0,0
+"hexaco",1,0,0,0,1
+"hidden markov model",2,0,1,0,1
+"hierarchical bayes model",1,0,1,0,0
+"hierarchical clust",2,0,0,0,2
+"hierarchical reinforcement learn",1,0,0,0,1
+"hierarchical taxonomi",1,0,0,1,0
+"higher educ",2,0,0,0,2
+"hint",2,0,1,1,0
+"hint gener",1,0,0,1,0
+"hint qual",1,0,0,1,0
+"hint typ",1,0,0,1,0
+"hinting strategi",1,0,0,1,0
+"histogram of partial similar",1,0,0,1,0
+"historical think",1,0,1,0,0
+"history learn",1,0,1,0,0
+"hmm",1,1,0,0,0
+"holistic interact",1,0,0,0,1
+"homework",1,1,0,0,0
+"homework select",1,0,0,0,1
+"honesty-humil",1,0,0,0,1
+"human- computer interact",1,1,0,0,0
+"human-agent interact",1,0,0,1,0
+"human-ai collabor",1,0,0,0,1
+"human-ai hybrid",1,0,0,1,0
+"human-ai interact",1,0,0,0,1
+"human-centered design",1,0,0,0,1
+"human-computer interact",2,1,1,0,0
+"human-robot interact",1,0,0,0,1
+"human language technolog",1,1,0,0,0
+"human practition",1,0,0,1,0
+"human problem solv",1,1,0,0,0
+"human tutor",3,2,1,0,0
+"human tutorial dialogu",1,0,1,0,0
+"human–ai hybrid",1,0,0,0,1
+"hybrid approach",1,1,0,0,0
+"hybrid tutoring system",1,0,1,0,0
+"hybrid user interfac",1,0,0,1,0
+"hypergraph",1,1,0,0,0
+"hypothesis test",1,0,0,0,1
+"id3",1,0,1,0,0
+"identification of learning styl",1,0,1,0,0
+"ill-defined domain",6,3,0,3,0
+"ill-defined domain of eth",1,0,1,0,0
+"immediaci",1,0,0,1,0
+"immediate feedback",1,1,0,0,0
+"implicit link",1,0,0,1,0
+"import",1,0,0,0,1
+"importance sampl",1,0,1,0,0
+"incept",1,0,0,1,0
+"inclusive pedagogi",1,0,1,0,0
+"incoming profil",1,0,0,0,1
+"increase student engag",1,1,0,0,0
+"increased student input",1,1,0,0,0
+"incubation effect",1,0,0,1,0
+"indigenous languag",1,0,0,0,1
+"individu",3,2,0,0,1
+"individual differ",1,1,0,0,0
+"individualized feedback",2,0,0,1,1
+"indoor localis",1,0,0,0,1
+"industry 4.0",1,0,0,1,0
+"infer",1,0,1,0,0
+"informal learn",2,2,0,0,0
+"informal log",2,0,0,1,1
+"informal logical fallaci",2,0,0,2,0
+"informal reason",3,0,0,2,1
+"informal science educ",1,1,0,0,0
+"information retriev",2,1,0,0,1
+"information system",1,1,0,0,0
+"inhibit",1,0,0,0,1
+"inhibitory control",1,0,0,0,1
+"initi",3,2,0,0,1
+"innov",1,1,0,0,0
+"inquiry-based learn",1,1,0,0,0
+"inquiry-based model",1,0,0,0,1
+"inquiry based learn",1,0,1,0,0
+"inquiry learn",5,0,1,3,1
+"inquiry skil",1,0,0,1,0
+"inquiry task",1,1,0,0,0
+"instance selection strategi",1,0,0,1,0
+"instructional decis",1,0,0,0,1
+"instructional design",2,0,0,0,2
+"instructional explan",1,1,0,0,0
+"instructional factor",1,0,0,1,0
+"instructional intervent",1,0,0,1,0
+"instructional plan",1,0,1,0,0
+"instructional support",1,0,0,0,1
+"instructional task",1,0,1,0,0
+"instructional technolog",1,1,0,0,0
+"instructional video",1,0,0,0,1
+"instructor-mediated design",1,1,0,0,0
+"instructor commun",1,0,0,1,0
+"instructor non-verbal behavior",1,0,0,1,0
+"integer program",1,0,0,1,0
+"intellig",1,0,0,0,1
+"intelligent ag",1,1,0,0,0
+"intelligent collaborative support",1,0,0,0,1
+"intelligent dashboard",1,0,0,0,1
+"intelligent educ",1,0,0,0,1
+"intelligent learning environ",1,0,1,0,0
+"intelligent support",2,0,0,1,1
+"intelligent system",1,0,0,0,1
+"intelligent tutor",14,4,2,4,4
+"intelligent tutor system",7,2,5,0,0
+"intelligent tutoring system",113,31,30,34,18
+"intelligent tutoring system (its)",3,1,0,2,0
+"intelligent tutoring systems (its)",2,0,0,2,0
+"inter-rater agr",1,0,0,1,0
+"inter-rater reli",1,0,0,0,1
+"interact",1,0,0,0,1
+"interaction diagram",1,0,0,0,1
+"interaction granularity hypothesi",1,1,0,0,0
+"interaction hypothesi",1,1,0,0,0
+"interaction network",1,0,1,0,0
+"interaction pattern",1,0,0,1,0
+"interactive ev",1,1,0,0,0
+"interactive learn",1,0,0,0,1
+"interactive learn environ",1,0,1,0,0
+"interactive narr",1,0,0,1,0
+"interactive problem solv",1,1,0,0,0
+"interactive simul",1,0,1,0,0
+"interactive tutoring system",1,0,0,1,0
+"interactive user experi",1,0,0,0,1
+"interest-based negoti",2,0,2,0,0
+"interleav",1,0,1,0,0
+"international deploy",1,0,1,0,0
+"interpersonal commun",1,1,0,0,0
+"interpersonal help-seek",1,0,0,1,0
+"interpersonal process",1,0,1,0,0
+"interpersonal skil",1,0,0,0,1
+"interpret",2,0,0,0,2
+"interpretable analysi",1,0,0,0,1
+"interpretable similar",1,0,0,0,1
+"intervent",1,0,0,0,1
+"interview",1,0,0,0,1
+"intrinsic motiv",1,0,1,0,0
+"intrinsic motivation inventori",1,0,0,1,0
+"introductory program",2,0,0,0,2
+"invent",1,0,0,1,0
+"invention act",1,0,0,0,1
+"investigative learn",1,1,0,0,0
+"io",1,0,0,1,0
+"ipad",1,1,0,0,0
+"irt",1,1,0,0,0
+"isomorphic exampl",1,0,1,0,0
+"it",7,2,2,2,1
+"it skill train",1,0,0,1,0
+"item exposure control",1,0,1,0,0
+"item model",2,0,0,1,1
+"item response theori",16,4,4,2,6
+"iterative logistic regress",1,0,0,1,0
+"its authoring tool",1,0,0,1,0
+"itss",2,2,0,0,0
+"japanese honorif",1,0,0,1,0
+"java program",1,0,1,0,0
+"job interview",1,0,1,0,0
+"joint problem-solv",1,0,0,0,1
+"just-in-time help",1,1,0,0,0
+"k-12 computer science educ",1,0,0,0,1
+"k-12 educ",2,0,0,0,2
+"kahoot!",1,0,0,1,0
+"keystrok",1,1,0,0,0
+"keyword extract",1,0,0,0,1
+"kit-build",2,0,0,0,2
+"kit-build concept map",4,0,0,3,1
+"knowledge compon",2,0,0,0,2
+"knowledge component model",1,0,0,0,1
+"knowledge diagnosi",1,0,0,1,0
+"knowledge diagnost",1,1,0,0,0
+"knowledge discoveri",1,0,0,0,1
+"knowledge graph",3,0,0,0,3
+"knowledge model",1,0,1,0,0
+"knowledge ne",1,0,0,1,0
+"knowledge represent",3,3,0,0,0
+"knowledge representation and reason",2,0,0,1,1
+"knowledge retent",1,1,0,0,0
+"knowledge space theori",2,0,0,0,2
+"knowledge structur",1,0,0,0,1
+"knowledge trac",12,5,1,1,5
+"l-statist",1,0,0,0,1
+"l statist",1,0,0,0,1
+"l2 read",1,0,0,1,0
+"language compet",1,1,0,0,0
+"language learn",6,1,0,1,4
+"large-scal",1,0,0,1,0
+"large el",1,1,0,0,0
+"lasad",1,1,0,0,0
+"latent dirichlet alloc",3,1,1,0,1
+"latent semantic analysi",2,1,0,0,1
+"latent skil",1,1,0,0,0
+"leadership behavior",1,0,1,0,0
+"learn",18,8,4,3,3
+"learn analyt",1,1,0,0,0
+"learn computer program",1,0,1,0,0
+"learn object",1,0,1,0,0
+"learn progress",1,0,1,0,0
+"learner-centered emot",1,0,0,1,0
+"learner affect",1,0,0,0,1
+"learner behavior",3,0,2,1,0
+"learner differ",1,0,1,0,0
+"learner error",1,1,0,0,0
+"learner knowledge assess",1,1,0,0,0
+"learner model",9,4,1,2,2
+"learner outcom",1,0,1,0,0
+"learnersourc",1,0,0,0,1
+"learning-by-teach",2,0,1,1,0
+"learning-engin",1,0,0,0,1
+"learning act",1,0,0,0,1
+"learning activity select",1,0,0,1,0
+"learning analyt",19,0,1,7,11
+"learning analytics dashboard",1,0,0,0,1
+"learning behavior",2,1,0,0,1
+"learning behavior analysi",1,1,0,0,0
+"learning behaviour",1,1,0,0,0
+"learning by design",1,1,0,0,0
+"learning by model",3,0,0,2,1
+"learning by problem-pos",1,1,0,0,0
+"learning by teach",2,1,0,1,0
+"learning companion",5,0,1,3,1
+"learning companion (lc)",1,0,0,1,0
+"learning compet",1,0,1,0,0
+"learning content recommend",1,0,0,1,0
+"learning context",1,1,0,0,0
+"learning curv",3,1,0,1,1
+"learning dashboard",2,0,1,1,0
+"learning design",2,0,0,1,1
+"learning effect",1,0,0,0,1
+"learning environ",1,1,0,0,0
+"learning environment design",1,0,1,0,0
+"learning gain",1,0,1,0,0
+"learning gain predict",1,0,0,1,0
+"learning gam",1,0,0,1,0
+"learning in gam",1,1,0,0,0
+"learning map",1,0,1,0,0
+"learning materi",1,0,0,1,0
+"learning material difficulti",1,1,0,0,0
+"learning model",1,0,0,1,0
+"learning motiv",1,0,1,0,0
+"learning ne",1,0,0,1,0
+"learning object",1,0,1,0,0
+"learning outcom",7,0,1,1,5
+"learning outcome(s)",1,0,0,0,1
+"learning path",1,1,0,0,0
+"learning process",3,1,1,1,0
+"learning program",1,0,0,1,0
+"learning resource recommend",1,0,0,0,1
+"learning scenario",1,1,0,0,0
+"learning sci",2,1,1,0,0
+"learning spac",1,0,0,0,1
+"learning strategi",2,1,0,1,0
+"learning system",1,1,0,0,0
+"learning technolog",1,1,0,0,0
+"learnsmart",1,0,0,1,0
+"learnspher",1,0,0,1,0
+"lectur",2,0,0,0,2
+"lecture enhanc",1,0,0,0,1
+"lego mindstorm",1,0,0,1,0
+"lexical conceptual structur",1,0,0,1,0
+"lexical overlap link",1,0,0,0,1
+"life-long learn",1,0,0,1,0
+"lifelong learn",5,1,0,3,1
+"linguistic featur",1,1,0,0,0
+"linguistic inquiry and word count (liwc)",1,0,0,0,1
+"linkage process",1,0,0,1,0
+"linked open data",1,0,1,0,0
+"listening skil",1,0,0,0,1
+"literacy technolog",1,0,0,1,0
+"local",1,1,0,0,0
+"localis",1,0,0,1,0
+"localization pattern algorithm",1,1,0,0,0
+"log analysi",1,0,0,0,1
+"log data",1,0,0,1,0
+"log fil",1,0,0,1,0
+"log trac",1,0,0,0,1
+"logical fallaci",1,0,0,0,1
+"logistic regress",1,1,0,0,0
+"long-term hri",1,0,0,0,1
+"long short-term memori",1,0,0,1,0
+"longer-term learning environ",1,0,0,1,0
+"longer-term mentor",1,0,0,0,1
+"longitudin",1,0,0,1,0
+"loud",1,0,0,0,1
+"lower-achieving stud",1,0,0,0,1
+"lsa",1,1,0,0,0
+"lstm",3,0,0,3,0
+"machine learn",28,7,4,4,13
+"machine learning challeng",1,0,0,1,0
+"machine learning techniqu",1,0,1,0,0
+"makerspac",2,0,0,0,2
+"male stud",1,1,0,0,0
+"mall",1,0,0,0,1
+"mammographi",1,1,0,0,0
+"markov decision process",2,1,1,0,0
+"massive open online cours",5,0,2,3,0
+"massive open online courses (mooc)",1,0,0,1,0
+"massive open online courses (moocs)",1,0,0,0,1
+"masteri",1,0,0,0,1
+"mastery-based learn",1,0,0,1,0
+"mastery learn",5,1,0,2,2
+"mastery orient",1,0,1,0,0
+"math",1,0,0,1,0
+"math comprehens",1,0,0,1,0
+"math educ",1,0,0,0,1
+"math problem solv",1,0,0,1,0
+"math success",1,0,0,1,0
+"mathemat",3,1,0,1,1
+"mathematics assess",1,0,0,1,0
+"mathematics educ",4,1,2,0,1
+"mathematics learn",2,0,0,1,1
+"matrix factor",1,0,0,0,1
+"maximum clique algorithm",1,0,0,0,1
+"maximum clique problem",2,1,0,1,0
+"maximum entropi",1,0,1,0,0
+"mdp",1,0,0,1,0
+"meaning-mak",1,0,0,1,0
+"mechan",1,0,0,1,0
+"medical grad",1,0,1,0,0
+"memori",1,0,0,0,1
+"mental model",1,0,1,0,0
+"meta-cognit",1,1,0,0,0
+"meta-tutor",1,1,0,0,0
+"metacognit",19,3,7,3,6
+"metacognitive experi",2,0,0,1,1
+"metacognitive judg",1,0,0,0,1
+"metacognitive skil",1,0,0,1,0
+"micro-averaged scor",1,0,0,1,0
+"micro learn",1,0,0,0,1
+"microsoft speech",1,0,1,0,0
+"middle school stud",1,0,1,0,0
+"mif misconcept",1,0,0,1,0
+"mind",1,0,0,1,0
+"mind-wand",2,0,0,0,2
+"mind wand",7,2,2,3,0
+"misconcept",1,0,1,0,0
+"mixed effect model",1,0,0,0,1
+"mixed r",2,1,0,0,1
+"mobile assisted language learning (mall)",1,1,0,0,0
+"mobile devic",2,1,1,0,0
+"mobile learn",4,1,0,3,0
+"mobile python tutor",2,0,0,2,0
+"model",1,1,0,0,0
+"model-based tutor",1,0,1,0,0
+"model-trac",1,1,0,0,0
+"model adapt",1,0,0,0,1
+"model building learning environ",1,0,0,1,0
+"model fit",1,1,0,0,0
+"model of teach",1,0,0,1,0
+"model scenario interact",1,0,0,1,0
+"model select",1,1,0,0,0
+"model trac",1,1,0,0,0
+"models of learn",1,1,0,0,0
+"modular reinforcement learn",1,0,1,0,0
+"moment-by-moment learn",1,0,1,0,0
+"monolog",1,0,0,0,1
+"mooc",12,0,3,6,3
+"moral educ",1,0,0,0,1
+"motion estim",1,0,0,1,0
+"motion sensor",2,0,0,1,1
+"motiv",11,3,4,0,4
+"motivational belief",1,0,1,0,0
+"motivational construct",1,0,0,0,1
+"movement",1,0,0,1,0
+"multi-document comprehension and integr",1,0,0,0,1
+"multi-document comprehension model",1,0,0,0,1
+"multi-label learn",1,0,0,0,1
+"multi-mod",1,0,1,0,0
+"multi-objective reinforcement learn",1,0,0,1,0
+"multi-task learn",1,0,0,0,1
+"multiclass classif",1,0,0,0,1
+"multimedia learning environ",1,0,0,0,1
+"multimod",2,0,0,1,1
+"multimodal approach",1,0,1,0,0
+"multimodal assess",1,0,1,0,0
+"multimodal data",2,0,0,1,1
+"multimodal data fus",1,0,0,0,1
+"multimodal data min",1,0,0,0,1
+"multimodal interact",1,0,0,1,0
+"multimodal learn",2,0,0,0,2
+"multimodal learning analyt",2,0,0,0,2
+"multiplayer game creation platform",1,0,0,1,0
+"multiple choice quest",1,0,1,0,0
+"multiple data sourc",1,1,0,0,0
+"multiple graphical represent",2,2,0,0,0
+"multiple modeling task",1,0,1,0,0
+"multiple represent",2,0,1,0,1
+"multiple sessions interact",1,0,0,0,1
+"multiple visu",1,0,0,0,1
+"multitask learn",1,0,1,0,0
+"museum-based learn",1,0,0,0,1
+"museum exhibit",1,1,0,0,0
+"museum visit",1,1,0,0,0
+"n-ccr",1,0,0,0,1
+"narrative-centered learning environ",2,1,1,0,0
+"narrative centered learn",1,0,0,1,0
+"natural-language dialogu",1,1,0,0,0
+"natural-language tutoring system",1,0,1,0,0
+"natural deduct",1,1,0,0,0
+"natural languag",1,0,0,0,1
+"natural language dialogu",1,0,0,1,0
+"natural language gener",1,0,0,0,1
+"natural language infer",1,0,1,0,0
+"natural language process",36,6,4,7,19
+"natural language tutor",1,0,1,0,0
+"natural language understand",1,0,0,0,1
+"naturalistic experiment",1,1,0,0,0
+"near-win",1,0,0,1,0
+"need defici",1,0,0,0,1
+"neet",1,0,1,0,0
+"negative feedback",1,1,0,0,0
+"negative/positive emot",1,0,0,1,0
+"negoti",3,0,2,1,0
+"negotiation train",1,0,0,0,1
+"network analysi",1,0,0,0,1
+"network coverag",1,0,1,0,0
+"neural ai",1,0,0,1,0
+"neural network",10,0,0,3,7
+"neural tensor network",1,0,0,0,1
+"neurosci",1,0,1,0,0
+"new data augmentation method",1,0,0,0,1
+"ngss",1,0,0,0,1
+"nlp",5,0,2,1,2
+"nobel laur",1,1,0,0,0
+"node classif",1,0,0,0,1
+"non-routine mathemat",1,0,0,0,1
+"non-technical skil",1,0,0,1,0
+"non-verbal behavior",1,0,0,0,1
+"nonverbal behavior",1,0,1,0,0
+"normit",1,1,0,0,0
+"north american chapt",1,1,0,0,0
+"not in education, employment or training (neets)",1,0,0,1,0
+"note-tak",1,1,0,0,0
+"novelti",1,1,0,0,0
+"novice programm",3,0,1,1,1
+"off-path step",1,1,0,0,0
+"off-task behavior",3,1,1,0,1
+"official polici",1,1,0,0,0
+"olm",1,0,1,0,0
+"on-line learning environ",1,0,0,0,1
+"one-on-one class",1,0,0,0,1
+"online class",1,0,0,0,1
+"online classroom",1,0,0,0,1
+"online cours",3,0,0,1,2
+"online discuss",2,1,0,1,0
+"online discussion forum",1,0,0,0,1
+"online educ",1,0,0,0,1
+"online group",1,0,0,0,1
+"online help",1,0,0,1,0
+"online job sit",1,0,0,1,0
+"online learn",3,0,0,2,1
+"online learning platform",1,0,1,0,0
+"online mentorship",1,1,0,0,0
+"online mob program",1,0,0,0,1
+"online tutor",2,0,0,1,1
+"online tutoring system",1,0,0,1,0
+"ontolog",6,1,1,2,2
+"open-end",1,0,0,1,0
+"open-ended learning environ",7,2,2,2,1
+"open-ended task",1,0,1,0,0
+"open educational resourc",1,0,1,0,0
+"open ended short answer assess",1,0,0,0,1
+"open learner model",12,5,4,2,1
+"open learner models (olm)",1,0,0,1,0
+"open social student model",1,0,1,0,0
+"opennlp",1,0,0,1,0
+"opensmil",1,0,0,0,1
+"opportunity gap",1,0,0,0,1
+"optimizing score predict",1,0,0,1,0
+"orchestr",3,0,0,2,1
+"osaka prefectur",1,1,0,0,0
+"out-of-school learn",1,0,0,0,1
+"outer loop",1,0,1,0,0
+"pair discuss",2,0,0,1,1
+"pair program",2,0,1,1,0
+"pairwise clust",1,1,0,0,0
+"paraphras",1,0,0,0,1
+"pars",1,1,0,0,0
+"parsons problem",2,0,0,2,0
+"parsons puzzl",1,0,0,1,0
+"partial credit",1,1,0,0,0
+"participants clust",1,0,0,1,0
+"participatory design",1,0,0,0,1
+"patient manikin",1,0,0,1,0
+"pattern match",1,0,1,0,0
+"pattern min",1,0,0,1,0
+"paus",1,0,0,1,0
+"pca",1,1,0,0,0
+"pedagogical ag",12,5,1,3,3
+"pedagogical decision-mak",1,0,0,0,1
+"pedagogical model",1,0,1,0,0
+"pedagogical polici",2,0,0,0,2
+"pedagogical strategi",1,1,0,0,0
+"pedagogical tool",1,1,0,0,0
+"peer-help",1,0,0,1,0
+"peer assess",3,0,1,2,0
+"peer learn",2,0,0,2,0
+"peer model",1,1,0,0,0
+"peer recommender system",2,0,0,2,0
+"peer reli",1,1,0,0,0
+"peer review",3,3,0,0,0
+"peer support",1,0,0,1,0
+"penalti",1,1,0,0,0
+"perceived choic",1,0,0,0,1
+"perceived compet",1,0,0,0,1
+"perceived intellig",1,0,0,1,0
+"perceptual-gestural knowledg",1,0,1,0,0
+"perceptual flu",2,0,0,0,2
+"percutaneous radiolog",1,0,0,1,0
+"perform",2,0,0,1,1
+"performance assess",2,1,0,1,0
+"performance differ",1,0,1,0,0
+"performance predict",3,0,1,0,2
+"periodic self-assess",1,1,0,0,0
+"permutation feature import",1,0,0,0,1
+"persever",2,0,0,2,0
+"persist",2,0,0,0,2
+"person",12,2,0,5,5
+"personal learning environ",1,0,1,0,0
+"personalised learn",1,0,0,1,0
+"personality trait",2,0,1,1,0
+"personalized guid",1,0,1,0,0
+"personalized intervent",1,0,0,0,1
+"personalized learn",3,0,1,0,2
+"personalized learning and feedback",1,0,0,0,1
+"personalized learning servic",1,0,0,1,0
+"personalized learning system",2,0,1,1,0
+"personalized nudg",1,0,0,0,1
+"pervasive gam",1,1,0,0,0
+"phonics instruct",1,0,0,0,1
+"php",1,1,0,0,0
+"physical computing kit",1,0,0,1,0
+"physical/virtual mod",1,0,0,0,1
+"physics educ",1,0,1,0,0
+"physics playground",1,0,0,1,0
+"physiological sign",1,0,0,1,0
+"physiological synchroni",1,0,0,1,0
+"pinterest",1,0,0,0,1
+"pitch",2,0,0,1,1
+"planning paramet",1,0,1,0,0
+"plate tecton",1,1,0,0,0
+"player model",1,0,1,0,0
+"polici",1,0,0,0,1
+"politeness strategi",1,0,0,0,1
+"pomdp",1,0,0,1,0
+"pos",1,0,0,0,1
+"positive word",1,1,0,0,0
+"postur",3,1,0,0,2
+"power electron",1,0,0,0,1
+"powerpoint slid",1,1,0,0,0
+"practical ultra portable tutoring systems(pupits)",1,1,0,0,0
+"practical us",1,0,0,1,0
+"practice environ",1,1,0,0,0
+"predict",4,1,2,0,1
+"predict-observe-explain",1,0,0,0,1
+"prediction model",1,0,1,0,0
+"prediction of learner skil",1,0,0,1,0
+"prediction problem",1,0,1,0,0
+"predictive model",2,0,1,1,0
+"prerequisite based ontolog",1,0,0,0,1
+"preschool",3,1,1,1,0
+"pressur",1,0,0,0,1
+"previous research work",1,0,1,0,0
+"primary educ",1,0,0,0,1
+"principle component analysi",1,0,0,0,1
+"prior knowledg",3,1,1,0,1
+"problem-solv",2,0,1,0,1
+"problem-solving behavior",1,0,0,1,0
+"problem-solving flex",1,0,0,0,1
+"problem behavior",1,0,0,0,1
+"problem difficulti",1,1,0,0,0
+"problem domain model",1,0,0,1,0
+"problem gener",1,0,0,0,1
+"problem pos",1,1,0,0,0
+"problem select",1,0,1,0,0
+"problem sequenc",1,1,0,0,0
+"problem solv",13,7,4,1,1
+"problem solving & worked exampl",1,0,0,0,1
+"problem solving environ",1,1,0,0,0
+"procedural content gener",1,0,0,0,1
+"procedural knowledge estim",1,1,0,0,0
+"procedural learn",1,0,0,1,0
+"procedural misconcept",1,0,0,0,1
+"procedural skil",1,1,0,0,0
+"process min",1,0,0,0,1
+"process mining in educ",1,0,0,0,1
+"production of educational materi",1,0,1,0,0
+"production rul",1,1,0,0,0
+"production system",2,1,1,0,0
+"productive failur",2,0,0,1,1
+"professional cap",2,0,0,2,0
+"program",7,1,0,5,1
+"program analysi",1,1,0,0,0
+"program comprehens",1,0,0,0,1
+"program correct",1,0,0,1,0
+"program repair",1,0,0,0,1
+"programming action log",1,0,0,0,1
+"programming defect",1,1,0,0,0
+"programming online judg",1,0,0,0,1
+"programming task",1,0,1,0,0
+"programming tutor",2,0,1,1,0
+"project-based learn",1,0,0,0,1
+"project manager's job",1,0,0,1,0
+"proportional learning gain",1,0,0,0,1
+"prote�ge� effect",1,0,0,1,0
+"psychometr",1,0,0,0,1
+"psychomotor skills train",1,0,0,1,0
+"q&a-gener",1,0,0,0,1
+"qualitative phys",1,1,0,0,0
+"quality assur",1,0,0,0,1
+"quantitative field observ",1,1,0,0,0
+"question ask",1,0,0,1,0
+"question classif",2,0,0,2,0
+"question dataset and taxonomi",1,0,0,1,0
+"question detect",1,0,0,0,1
+"question difficulti",1,0,0,1,0
+"question gener",7,2,3,2,0
+"question pos",1,0,0,0,1
+"question product",1,0,0,0,1
+"question taxonomi",1,0,0,1,0
+"questioning techniqu",1,0,0,1,0
+"random forest model",1,0,0,1,0
+"randomized controlled tri",2,0,2,0,0
+"rapport",3,0,0,1,2
+"rater bia",1,0,0,0,1
+"rater characterist",1,0,1,0,0
+"rater select",1,0,0,1,0
+"rating dispar",1,1,0,0,0
+"rating scal",1,0,0,1,0
+"read",2,1,1,0,0
+"readabl",1,1,0,0,0
+"readerbench",1,0,0,1,0
+"readerbench framework",1,0,0,1,0
+"reading assess",1,0,0,1,0
+"reading comprehens",10,1,1,7,1
+"reading recommender system",1,0,0,0,1
+"reading strategi",2,1,1,0,0
+"ready-to-learn",1,0,0,0,1
+"real-time analyt",1,0,0,1,0
+"real classroom",1,0,0,1,0
+"reason",1,1,0,0,0
+"reasoning skil",1,0,1,0,0
+"reciprocal recommend",1,0,0,1,0
+"recommend",2,0,1,0,1
+"recommender system",7,3,1,1,2
+"recsystel",1,0,0,1,0
+"recurrent neural network",3,0,0,2,1
+"recurrent neural networks (rnn)",1,0,0,1,0
+"reflect",2,1,0,0,1
+"reflection prompt",1,0,0,0,1
+"reflective writ",1,0,0,0,1
+"regress",1,0,0,1,0
+"regression method",1,0,0,0,1
+"reinforcement learn",4,1,0,1,2
+"relation extract",1,0,0,0,1
+"relaxed graph match",1,1,0,0,0
+"relev",1,0,1,0,0
+"reliabl",3,0,1,2,0
+"remediation strategi",1,0,0,1,0
+"representation learn",1,0,0,1,0
+"reputation system",1,0,1,0,0
+"requirements elicit",1,0,0,1,0
+"resampl",1,0,0,0,1
+"research prototyp",1,0,1,0,0
+"respons",1,0,0,1,0
+"restat",1,0,1,0,0
+"retrain",1,0,0,0,1
+"retrospective summari",1,0,0,1,0
+"revis",3,0,0,0,3
+"revised bloom’s taxonomi",1,0,0,1,0
+"revision analysi",1,0,0,1,0
+"revision graph",1,0,0,1,0
+"revision process",1,0,0,1,0
+"risk predict",1,0,0,0,1
+"rnn",1,0,0,1,0
+"robot",1,0,0,0,1
+"robot lectur",1,0,0,0,1
+"robust learn",2,2,0,0,0
+"role play",1,0,0,0,1
+"rule learn",1,0,0,0,1
+"sample repres",1,0,0,0,1
+"satisfact",1,0,0,0,1
+"sax",1,0,1,0,0
+"scaffold",9,4,2,1,2
+"scalable learning analyt",1,0,0,0,1
+"scale",1,0,0,1,0
+"scanpath analysi",1,0,0,0,1
+"science and engin",1,0,0,0,1
+"science educ",2,1,0,0,1
+"science inquiri",3,1,0,0,2
+"science learn",2,1,0,0,1
+"science, technology, engineering and mathematics (stem)",1,0,0,1,0
+"scientific explan",1,0,0,1,0
+"score predict",1,0,0,0,1
+"score report",1,0,0,1,0
+"scripted collabor",1,0,0,0,1
+"selecting text inform",1,0,1,0,0
+"self-assess",5,2,3,0,0
+"self-attent",2,0,0,0,2
+"self-confid",1,0,0,1,0
+"self-determination theori",1,0,0,1,0
+"self-determination theory (sdt)",1,0,0,1,0
+"self-directed learn",2,0,1,1,0
+"self-efficaci",3,1,2,0,0
+"self-explan",7,2,2,3,0
+"self-improving online coursewar",1,0,0,0,1
+"self-regul",1,1,0,0,0
+"self-regulated learn",12,3,4,1,4
+"self-regulation strategi",1,0,1,0,0
+"self-theory of intellig",1,0,0,0,1
+"self-transit",1,0,0,0,1
+"self attent",1,0,0,0,1
+"semantic augmentation and analysi",1,1,0,0,0
+"semantic interpret",1,1,0,0,0
+"semantic link",1,0,0,0,1
+"semantic open learning spac",1,0,1,0,0
+"semantic role label",1,0,1,0,0
+"semantic similar",1,0,0,0,1
+"semantic techniqu",1,0,0,1,0
+"semantic textual similar",1,0,0,0,1
+"semantic web",1,0,0,1,0
+"semi-automatic generation of exercis",1,1,0,0,0
+"sense-making skil",1,0,0,0,1
+"sense of ag",1,0,0,0,1
+"sensemaking in learning analyt",1,0,0,0,1
+"sensor-fre",2,0,0,2,0
+"sensor data",1,0,1,0,0
+"sentence embed",1,0,0,1,0
+"sentence integr",1,1,0,0,0
+"sentence select",1,0,0,0,1
+"sentiment analysi",4,1,1,1,1
+"seq2seq",1,0,0,1,0
+"sequenc",1,0,0,0,1
+"sequence-to-sequence model",1,0,0,0,1
+"sequence min",1,0,0,1,0
+"sequential pattern min",1,0,0,0,1
+"serious gam",9,5,2,2,0
+"shallow learn",1,1,0,0,0
+"shared-activity environ",1,0,0,1,0
+"shared understand",2,0,0,1,1
+"short-answ",1,0,0,1,0
+"short answ",1,0,0,1,0
+"short answer grad",4,0,0,1,3
+"sigmoid output lay",1,0,0,1,0
+"similar",2,0,0,0,2
+"similarity graph",1,0,1,0,0
+"simul",3,0,0,2,1
+"simulated environments for learn",1,1,0,0,0
+"simulated learn",5,1,1,1,2
+"simulated learning environ",2,1,1,0,0
+"simulated stud",1,1,0,0,0
+"simulation-based assess",1,0,0,1,0
+"simulation-based surgical educ",1,0,0,1,0
+"simulation gam",1,0,1,0,0
+"situated learn",1,1,0,0,0
+"situational interest",1,1,0,0,0
+"skill diari",1,1,0,0,0
+"skill graph",1,0,1,0,0
+"skills assess",1,1,0,0,0
+"skin conductance response (scr)",1,0,0,0,1
+"slip paramet",1,0,0,1,0
+"small group work",1,0,0,1,0
+"social",1,0,0,1,0
+"social and emotional learn",1,0,0,0,1
+"social coach",1,0,1,0,0
+"social commun",2,2,0,0,0
+"social cont",1,1,0,0,0
+"social influ",2,0,1,1,0
+"social interact",1,0,0,0,1
+"social learn",1,1,0,0,0
+"social network",2,1,1,0,0
+"social network analysi",1,0,0,1,0
+"social problem-solving skil",1,0,1,0,0
+"social robot",1,0,0,1,0
+"socio-cognitive conflict",1,0,0,0,1
+"sociogram",1,0,0,1,0
+"socratic method",1,0,0,0,1
+"soft skill learn",2,0,0,1,1
+"soft skills learn",1,0,0,1,0
+"soft skills train",1,0,0,0,1
+"software ag",1,0,0,1,0
+"spaced practic",1,0,0,1,0
+"spaced repetit",1,0,0,0,1
+"spacing effect",1,0,1,0,0
+"spanish",1,0,0,1,0
+"spatial model",1,0,0,0,1
+"spatial perspective tak",1,0,0,0,1
+"speak dialogue system",1,1,0,0,0
+"speaking anxieti",1,0,0,0,1
+"speech",2,0,0,1,1
+"speech act",1,1,0,0,0
+"spelling and grammar check",1,0,0,0,1
+"sphinx 4",1,0,1,0,0
+"spoken dialogu",1,0,1,0,0
+"sql-tutor",1,0,0,1,0
+"st math",1,0,0,0,1
+"state sequ",1,1,0,0,0
+"static case bas",1,1,0,0,0
+"statistics educ",1,0,0,0,1
+"stealth",1,0,0,1,0
+"stealth assess",4,1,1,1,1
+"stem",4,0,0,2,2
+"stem educ",1,0,0,1,0
+"stem+ct",1,0,0,0,1
+"story el",1,1,0,0,0
+"stpa",1,0,0,0,1
+"strategi",2,0,0,0,2
+"strategy-based learn",1,0,0,1,0
+"strategy based learn",1,0,0,1,0
+"string kernel",1,0,0,1,0
+"structure interfac",1,0,1,0,0
+"structured predict",1,0,0,0,1
+"student",1,0,0,0,1
+"student-skill model",1,1,0,0,0
+"student-specific model paramet",1,1,0,0,0
+"student ",1,0,0,1,0
+"student affect",1,0,0,0,1
+"student affect detect",1,0,0,1,0
+"student ag",2,0,0,2,0
+"student answer assess",2,0,0,1,1
+"student answer scor",1,0,0,0,1
+"student approach",1,0,1,0,0
+"student behavior",2,1,1,0,0
+"student behaviour",1,0,0,0,1
+"student data",1,0,0,0,1
+"student emot",1,0,0,1,0
+"student engag",1,0,0,1,0
+"student evaluation of teach",1,0,0,1,0
+"student expect",1,1,0,0,0
+"student knowledge represent",1,0,0,0,1
+"student model",26,9,5,9,3
+"student motiv",1,0,1,0,0
+"student perform",2,0,1,0,1
+"student performance predict",1,0,1,0,0
+"student popul",1,0,0,1,0
+"student program",1,0,0,1,0
+"student respons",2,1,0,1,0
+"student response analysi",1,0,0,1,0
+"student sequence analysi",1,0,0,0,1
+"student sketch analysi",1,0,1,0,0
+"student skill model",1,1,0,0,0
+"student strategi",1,1,0,0,0
+"student track",1,1,0,0,0
+"student writing analysi",1,0,1,0,0
+"students’ particip",1,0,0,1,0
+"study choic",1,1,0,0,0
+"study plan",1,0,0,1,0
+"study strategi",1,0,0,0,1
+"studywis",1,0,0,1,0
+"sub-skil",1,0,0,1,0
+"subject",1,1,0,0,0
+"subject matter expert",1,0,1,0,0
+"substep-based tutor",1,0,1,0,0
+"summar",2,0,1,0,1
+"summaries assess",1,0,1,0,0
+"summary scor",1,0,0,0,1
+"summary writ",2,0,0,1,1
+"summative test",1,0,1,0,0
+"supervised learn",1,0,0,1,0
+"supervised topic model",1,0,0,0,1
+"support",1,0,0,1,0
+"support to the its design",1,1,0,0,0
+"support vector machin",3,1,1,1,0
+"survival analysi",1,0,1,0,0
+"svm",2,0,0,1,1
+"sword",1,1,0,0,0
+"symbolic execut",1,0,0,1,0
+"symbolic fract",1,1,0,0,0
+"synchroni",1,0,0,0,1
+"synergistic learn",1,0,0,0,1
+"syntactic featur",1,0,0,1,0
+"system-general model",1,0,0,1,0
+"system adapt",2,1,0,1,0
+"system appl",1,1,0,0,0
+"system dynam",1,0,0,1,0
+"system error",1,1,0,0,0
+"system safeti",1,0,0,0,1
+"systematic mapping studi",1,1,0,0,0
+"systematic review",1,0,0,0,1
+"ta",1,0,1,0,0
+"table format",1,1,0,0,0
+"tabletop",1,1,0,0,0
+"tailored gamif",1,0,0,0,1
+"tangibl",1,0,0,1,0
+"tangible interfac",1,1,0,0,0
+"tangible learning environ",1,1,0,0,0
+"target item",1,0,1,0,0
+"target prob",1,0,1,0,0
+"task-oriented read",1,0,1,0,0
+"task-unrelated thought",1,0,0,0,1
+"task complex",1,0,0,0,1
+"task design",1,0,0,1,0
+"task difficulti",1,0,0,0,1
+"task model",1,1,0,0,0
+"tasks and problem-solving process",1,1,0,0,0
+"tb-moop",1,0,0,1,0
+"teachable ag",15,3,4,6,2
+"teachable robot",1,0,0,1,0
+"teacher",2,0,1,0,1
+"teacher-in-the-loop",1,0,0,1,0
+"teacher educ",1,0,0,1,0
+"teacher languag",1,0,0,1,0
+"teacher perspect",1,0,0,0,1
+"teachers in social media",1,0,0,0,1
+"teachers’ use of data",1,0,0,1,0
+"teaching program",1,0,0,0,1
+"teaching strategi",1,1,0,0,0
+"team-based massive open online project cours",1,0,0,1,0
+"team based learn",1,0,1,0,0
+"teamwork",3,0,0,2,1
+"technolog",1,0,0,0,1
+"technology-enhanced learn",1,0,0,0,1
+"technology-enhanced train",1,0,1,0,0
+"technology rich learning environ",1,0,1,0,0
+"technology transit",1,1,0,0,0
+"temporal analysi",1,0,1,0,0
+"temporal bone surgeri",2,0,0,0,2
+"temporal generaliz",1,0,1,0,0
+"temporal reason",1,0,0,0,1
+"tension",1,0,0,0,1
+"test assembl",1,1,0,0,0
+"test perform",1,0,1,0,0
+"test prepar",1,0,0,0,1
+"test theori",1,1,0,0,0
+"testing effect",2,0,1,1,0
+"text analysi",1,0,0,0,1
+"text characterist",1,1,0,0,0
+"text classif",2,0,0,1,1
+"text cohes",1,1,0,0,0
+"text comprehens",1,0,0,1,0
+"text content complex",1,0,0,0,1
+"text difficulti",1,0,0,1,0
+"text min",3,0,0,0,3
+"text simplif",1,0,0,0,1
+"textual complex",2,1,1,0,0
+"textual complexity assess",1,0,0,1,0
+"theory of mind",1,1,0,0,0
+"thin blue lin",1,1,0,0,0
+"time",1,0,0,0,1
+"time-gap",1,0,0,0,1
+"time-on-task",1,0,1,0,0
+"time-series analysi",1,0,0,0,1
+"time seri",1,0,1,0,0
+"time series analysi",1,0,0,0,1
+"time series clust",1,0,0,0,1
+"topic model",3,1,1,0,1
+"train",2,0,0,0,2
+"trait emot",1,0,1,0,0
+"transact",1,0,0,1,0
+"transcript analysi",1,0,1,0,0
+"transfer",1,1,0,0,0
+"transfer learn",3,0,1,0,2
+"transform",1,0,0,0,1
+"transpar",1,0,0,0,1
+"tree regular express",1,0,0,1,0
+"trialog",1,1,0,0,0
+"trialogu",1,0,0,1,0
+"troubleshooting skil",1,0,0,1,0
+"trust",1,0,0,0,1
+"trust and reput",1,1,0,0,0
+"tutor",4,1,1,1,1
+"tutor dialogu",1,1,0,0,0
+"tutor practic",1,0,0,0,1
+"tutor system",1,1,0,0,0
+"tutored problems to solv",1,0,1,0,0
+"tutorial dialog",1,1,0,0,0
+"tutorial dialogu",9,4,2,2,1
+"tutorial dialogue system",1,0,1,0,0
+"tutorial plan",2,0,1,1,0
+"tutoring dialogu",2,2,0,0,0
+"tutoring sess",1,0,1,0,0
+"tutoring strategi",1,1,0,0,0
+"tutoring system",5,1,2,1,1
+"tutoring system evalu",1,0,0,1,0
+"two-layer hidden markov model",1,0,0,1,0
+"ubiquitous learning environ",1,1,0,0,0
+"uml-model",1,0,1,0,0
+"uncertainti",3,0,0,3,0
+"uniform test assembl",1,0,0,1,0
+"uniform test form",1,1,0,0,0
+"uniform test form assembl",1,0,0,0,1
+"uniform tests assembl",1,0,1,0,0
+"unity 3d",1,0,0,1,0
+"unproductive struggl",1,0,0,0,1
+"unready-to-learn",1,0,0,0,1
+"unsupervised learn",2,1,0,1,0
+"unsupervised machine learn",2,0,1,0,1
+"urban high school",1,0,0,0,1
+"usabl",1,0,0,1,0
+"user-centered design",1,0,1,0,0
+"user-interfac",1,0,0,1,0
+"user behavior",1,0,0,1,0
+"user behaviour",1,0,0,0,1
+"user interfac",1,1,0,0,0
+"user model",6,1,3,1,1
+"user percept",1,1,0,0,0
+"user profil",2,0,1,0,1
+"user studi",2,0,1,1,0
+"user/learner model",1,0,0,1,0
+"utilization r",1,0,0,0,1
+"utterance typ",1,0,0,1,0
+"valenc",1,0,0,1,0
+"valid",1,0,0,1,0
+"vbl",1,0,0,0,1
+"vector space embed",1,0,0,0,1
+"vendler verb class",1,0,0,1,0
+"vicarious learn",1,0,0,0,1
+"video-based learn",3,0,0,2,1
+"video analysi",1,0,0,0,1
+"video cod",1,0,0,0,1
+"video feedback",1,0,1,0,0
+"video watching trac",1,0,0,0,1
+"viewpoint",1,1,0,0,0
+"virtual ag",3,0,2,0,1
+"virtual and robotic tutor",1,1,0,0,0
+"virtual classroom environ",1,0,0,0,1
+"virtual commun",1,0,0,1,0
+"virtual environ",2,2,0,0,0
+"virtual human",1,0,1,0,0
+"virtual lab",3,0,0,2,1
+"virtual learning assist",1,0,0,1,0
+"virtual learning environ",2,1,0,1,0
+"virtual math teams (vmt)",1,0,0,1,0
+"virtual r",2,1,0,0,1
+"virtual reality surgeri",1,0,0,1,0
+"virtual reality surgical train",2,0,0,0,2
+"virtual teaching assist",1,0,0,1,0
+"visitor model",1,0,0,0,1
+"visual",2,0,0,1,1
+"visual appear",1,1,0,0,0
+"visual attent",1,0,0,1,0
+"visual dialog",1,0,0,1,0
+"visual learning analyt",1,0,1,0,0
+"visual program",2,1,1,0,0
+"visual represent",1,0,1,0,0
+"visualis",3,1,0,2,0
+"vla",1,0,1,0,0
+"vocational educ",1,0,0,0,1
+"voluntary practic",1,0,0,0,1
+"watch index",1,0,0,0,1
+"web",1,1,0,0,0
+"web-based e-learning system",1,1,0,0,0
+"web-based learn",1,0,1,0,0
+"wheel-spin",4,1,0,1,2
+"wheel spin",1,0,0,0,1
+"willingness to communicate in l2",2,0,0,1,1
+"winne and hadwin model",1,0,0,0,1
+"wizard-of-oz",1,0,0,1,0
+"word commun",1,0,0,1,0
+"word embed",1,0,0,1,0
+"word mean",1,1,0,0,0
+"worked exampl",8,1,5,2,0
+"worked out exampl",1,0,0,0,1
+"working memory capac",1,0,1,0,0
+"workplace learn",1,0,0,1,0
+"write",6,1,2,1,2
+"write-aloud methodolog",1,0,0,0,1
+"writing analyt",1,0,0,1,0
+"writing instruct",1,1,0,0,0
+"writing pedagogi",2,1,1,0,0
+"writing strategi",2,1,0,0,1
+"young children",1,0,0,0,1
+"zone of proximal develop",4,0,0,1,3
+"zoning out",1,0,1,0,0

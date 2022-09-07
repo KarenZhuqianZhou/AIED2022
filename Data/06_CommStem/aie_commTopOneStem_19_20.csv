@@ -1,0 +1,519 @@
+"Stem","commR_19_20","n"
+"academic achiev",93,1
+"academic perform",32,1
+"adapt",71,1
+"adaptive learn",39,1
+"adaptive support",46,1
+"adaptive tutor",117,2
+"adversarial attack",54,1
+"affect detect",1,4
+"affective backchannel",71,1
+"agent-based model",34,1
+"ai",87,1
+"ai enabled tutor",36,1
+"aie",11,1
+"align",10,1
+"analogical reason",62,1
+"annotation studi",37,1
+"answer match",15,1
+"answer set program",59,1
+"argumentative writ",111,1
+"arithmetic addit",97,1
+"artificial intellig",11,1
+"artificial intellig",72,1
+"artificial intellig",78,1
+"artificial intellig",116,1
+"asl",36,1
+"assess",123,1
+"assist",93,1
+"at-risk stud",76,1
+"attendance r",79,1
+"attent",20,2
+"attent",69,1
+"authoring tool",26,1
+"automated assess",114,1
+"automated feedback",18,2
+"automated performance feedback",8,2
+"automated short answer grad",123,1
+"automated speech analysi",23,1
+"automatic assess",54,1
+"automatic evalu",95,1
+"automatic item gener",31,1
+"automatic item gener",58,1
+"automatic question gener",54,1
+"automatic short answer grad",31,1
+"automatic short answer grad",54,1
+"bay",125,1
+"bayesian diagnosis trac",53,1
+"bayesian knowledge trac",53,1
+"bayesian knowledge trac",60,1
+"bayesian knowledge trac",122,1
+"bayesian network",41,1
+"bayesian network",58,1
+"behavioral log",102,1
+"behavioural clon",39,1
+"behavioural trend",92,1
+"bert",123,1
+"bert classification algorithm",101,1
+"block-based program",118,1
+"bootstrap",41,1
+"cauti",78,1
+"change-point detect",122,1
+"child-robot interact",35,1
+"children",35,1
+"clabsi",78,1
+"classif",95,1
+"classroom cours",93,1
+"cluster",95,1
+"code read",31,1
+"cognitive engag",80,1
+"cognitive graph",58,1
+"cognitive load",97,1
+"cognitive load",115,1
+"cognitive model",89,1
+"cognitive sci",78,1
+"collabor",56,1
+"collaborative learn",21,2
+"collaborative learn",38,1
+"collaborative learn",44,2
+"collaborative problem solv",75,1
+"college-level educ",34,1
+"communication strategi",71,1
+"community of inquiri",38,1
+"compilation error",81,1
+"computational linguist",38,1
+"computer-based exam",31,1
+"computer assisted language learn",43,1
+"computer science educ",83,1
+"computer vis",50,1
+"computerized adaptive test",113,1
+"computing educ",68,1
+"concept map",44,2
+"conceptual database design",103,1
+"confid",78,1
+"confus",101,1
+"conscienti",62,1
+"constructiv",84,1
+"constructive feedback",37,1
+"content analysi",52,1
+"context model",125,1
+"contingent scaffold",25,1
+"conversational ag",9,2
+"conversational ag",71,1
+"cooper",75,1
+"counter-argu",37,1
+"counterintuitive reason",46,1
+"critical constructive feedback",104,1
+"critical think",37,1
+"critical think",47,1
+"crowdsourc",29,1
+"crowdsourc",37,1
+"cs1",31,1
+"curios",7,1
+"curriculum",99,1
+"cusum",122,1
+"data-driven hint",68,1
+"data drift",13,1
+"data min",96,1
+"data storytel",7,1
+"data visu",7,1
+"dataset",11,1
+"decision support tool",51,1
+"deep knowledge trac",60,1
+"deep knowledge trac",100,1
+"deep learn",16,2
+"deep learn",39,1
+"deep learn",50,1
+"deep learn",124,1
+"deep neural network",10,1
+"deep neural network",124,1
+"dialog",93,1
+"dialogu",10,1
+"dialogue-based tutoring system",16,2
+"digital assistive tool",97,1
+"digital scratchpad",97,1
+"digital transform",52,1
+"discourse cont",56,1
+"doc2vec",80,1
+"domain reason",15,1
+"drill down analysi",29,1
+"dropout",22,1
+"dynamic graph",101,1
+"e-educ",17,1
+"e-learn",116,1
+"e-learn",124,1
+"e-test",113,1
+"early warning system",102,1
+"ecolog",34,1
+"eda featur",61,1
+"editor rol",111,1
+"edm",41,1
+"educ",11,1
+"educ",35,1
+"educ",54,1
+"educ",72,1
+"educ",87,1
+"education technolog",73,1
+"educational data min",51,1
+"educational data min",55,1
+"educational data min",118,1
+"educational dialogue analysi",10,1
+"educational neurosci",46,1
+"educational question gener",10,1
+"educational recommend",7,1
+"educational system",29,1
+"eip",31,1
+"embodied conversational ag",109,1
+"emot",66,1
+"emotion recognit",50,1
+"emotional clar",61,1
+"engag",25,1
+"engag",108,1
+"epistemic network analysi",10,1
+"error analysi",76,1
+"ethic",72,1
+"ethic",105,1
+"evidence-centered design",75,1
+"executive funct",17,1
+"experimental studi",25,1
+"explainable ai",36,1
+"exploratory data analysi",73,1
+"eye-track",46,1
+"eye-tracking studi",17,1
+"eye track",115,1
+"fallaci",37,1
+"feedback",23,1
+"feedback",78,1
+"feedback neglect",104,1
+"feeling of difficulty (fod)",46,1
+"forgetting curv",39,1
+"forgetting curv",100,1
+"frequent pattern min",82,1
+"funtoot",100,1
+"g2p",69,1
+"game-based learn",1,4
+"game-based learn",46,1
+"game-based learn",73,1
+"game-based learn",88,1
+"game-based learning environ",1,4
+"game perform",97,1
+"gamif",3,4
+"gamif",32,1
+"gamif",35,1
+"gamif",48,2
+"gated recurrent unit (gru)",101,1
+"gaze behavior",17,1
+"gdpr",105,1
+"gender differ",38,1
+"gender in stem",38,1
+"genetic counsel",109,1
+"genetic risk commun",109,1
+"grade predict",102,1
+"group communication analysi",38,1
+"group form",56,1
+"group process",38,1
+"health literaci",109,1
+"health numeraci",109,1
+"healthcar",78,1
+"heurist",122,1
+"hexaco",62,1
+"hidden markov model",53,1
+"hierarchical clust",75,1
+"hierarchical clust",92,1
+"higher educ",38,1
+"higher educ",99,1
+"homework select",39,1
+"honesty-humil",62,1
+"human-centered design",7,1
+"hypothesis test",15,1
+"incoming profil",102,1
+"indigenous languag",43,1
+"individu",125,1
+"individualized feedback",57,1
+"information retriev",14,1
+"inhibit",17,1
+"inhibitory control",46,1
+"inquiry-based model",34,1
+"instructional design",49,1
+"instructional video",93,1
+"intellig",62,1
+"intelligent dashboard",29,1
+"intelligent support",25,1
+"intelligent system",26,1
+"intelligent tutor",83,1
+"intelligent tutoring system",2,3
+"intelligent tutoring system",15,1
+"intelligent tutoring system",16,2
+"intelligent tutoring system",21,2
+"intelligent tutoring system",42,2
+"intelligent tutoring system",92,1
+"intelligent tutoring system",100,1
+"intelligent tutoring system",103,1
+"intelligent tutoring system",109,1
+"intelligent tutoring system",119,1
+"intelligent tutoring system",999,95
+"inter-rater reli",123,1
+"interaction diagram",84,1
+"interactive user experi",7,1
+"interpersonal skil",98,1
+"interpret",89,1
+"interpretable analysi",33,1
+"interview",76,1
+"introductory program",81,1
+"introductory program",118,1
+"it",59,1
+"item model",31,1
+"item response theori",67,1
+"item response theori",89,1
+"item response theori",90,3
+"item response theori",113,1
+"joint problem-solv",56,1
+"keyword extract",52,1
+"kit-build",44,2
+"knowledge discoveri",116,1
+"knowledge representation and reason",116,1
+"knowledge space theori",85,2
+"knowledge structur",45,1
+"knowledge trac",11,1
+"knowledge trac",33,1
+"knowledge trac",101,1
+"language learn",23,1
+"language learn",39,1
+"language learn",71,1
+"latent semantic analysi",114,1
+"learn",17,1
+"learner affect",50,1
+"learner model",29,1
+"learner model",122,1
+"learnersourc",29,1
+"learning-engin",107,1
+"learning act",49,1
+"learning analyt",21,2
+"learning analyt",22,1
+"learning analyt",47,1
+"learning analyt",67,1
+"learning analyt",76,1
+"learning analyt",103,1
+"learning analytics dashboard",29,1
+"learning behavior",55,1
+"learning companion",66,1
+"learning design",49,1
+"learning effect",103,1
+"learning outcom",1,4
+"learning outcom",58,1
+"learning outcome(s)",13,1
+"learning resource recommend",52,1
+"lectur",94,2
+"lecture enhanc",77,1
+"lifelong learn",106,1
+"linguistic inquiry and word count (liwc)",38,1
+"listening skil",43,1
+"log trac",108,1
+"longer-term mentor",106,1
+"lower-achieving stud",104,1
+"machine learn",14,1
+"machine learn",19,1
+"machine learn",21,2
+"machine learn",49,1
+"machine learn",51,1
+"machine learn",80,1
+"machine learn",118,1
+"makerspac",24,2
+"mall",23,1
+"massive open online courses (moocs)",101,1
+"mastery learn",122,1
+"matrix factor",82,1
+"maximum clique algorithm",113,1
+"memori",17,1
+"metacognit",26,1
+"metacognit",46,1
+"metacognit",78,1
+"metacognitive experi",46,1
+"micro learn",14,1
+"mind-wand",20,2
+"mixed effect model",102,1
+"mixed r",49,1
+"model adapt",13,1
+"monolog",93,1
+"mooc",79,1
+"mooc",95,1
+"mooc",96,1
+"motiv",70,1
+"motiv",93,1
+"multi-label learn",81,1
+"multimodal data",26,1
+"multimodal learn",4,2
+"n-ccr",122,1
+"natural language gener",54,1
+"natural language process",6,6
+"natural language process",7,1
+"natural language process",10,1
+"natural language process",12,2
+"natural language process",15,1
+"natural language process",16,2
+"natural language process",67,1
+"natural language process",114,1
+"natural language process",123,1
+"negotiation train",57,1
+"network analysi",7,1
+"neural network",14,1
+"neural network",15,1
+"neural network",39,1
+"neural network",89,1
+"new data augmentation method",124,1
+"nlp",80,1
+"nlp",110,1
+"node classif",101,1
+"non-verbal behavior",77,1
+"novice programm",118,1
+"online cours",93,1
+"online cours",110,1
+"online discussion forum",80,1
+"online group",56,1
+"online learn",38,1
+"online tutor",26,1
+"ontolog",25,1
+"open learner model",125,1
+"participatory design",26,1
+"pedagogical ag",84,1
+"pedagogical ag",109,1
+"pedagogical polici",30,2
+"perceptual flu",27,2
+"perform",108,1
+"performance predict",19,1
+"performance predict",41,1
+"persist",75,1
+"person",96,1
+"person",110,1
+"person",125,1
+"personalized learn",7,1
+"personalized learn",88,1
+"personalized nudg",25,1
+"phonics instruct",69,1
+"politeness strategi",10,1
+"pos",110,1
+"power electron",58,1
+"prerequisite based ontolog",101,1
+"primary educ",66,1
+"problem-solv",75,1
+"problem gener",59,1
+"problem solving & worked exampl",93,1
+"procedural misconcept",53,1
+"process min",26,1
+"process mining in educ",29,1
+"program",95,1
+"program comprehens",115,1
+"program repair",81,1
+"programming online judg",22,1
+"psychometr",88,1
+"q&a-gener",110,1
+"question product",47,1
+"rapport",5,2
+"reading recommender system",119,1
+"recommend",101,1
+"recommender system",14,1
+"recommender system",116,1
+"reinforcement learn",107,1
+"relation extract",45,1
+"resampl",41,1
+"retrain",87,1
+"revis",111,1
+"risk predict",7,1
+"robot lectur",77,1
+"role play",98,1
+"scaffold",10,1
+"scalable learning analyt",88,1
+"scanpath analysi",93,1
+"science educ",34,1
+"science inquiri",64,2
+"score predict",88,1
+"self-attent",13,1
+"self-attent",54,1
+"self-improving online coursewar",107,1
+"self-regulated learn",26,1
+"self-regulated learn",93,1
+"self-theory of intellig",93,1
+"self attent",33,1
+"semantic similar",15,1
+"sense of ag",72,1
+"sensemaking in learning analyt",7,1
+"sentence select",10,1
+"sentiment analysi",93,1
+"sequential pattern min",82,1
+"short answer grad",54,1
+"short answer grad",65,2
+"similar",65,2
+"simul",106,1
+"simulated learn",106,1
+"skin conductance response (scr)",46,1
+"social and emotional learn",26,1
+"socio-cognitive conflict",32,1
+"soft skill learn",25,1
+"soft skills train",57,1
+"spaced repetit",39,1
+"spatial perspective tak",35,1
+"speaking anxieti",61,1
+"st math",73,1
+"statistics educ",15,1
+"stpa",25,1
+"structured predict",81,1
+"student answer scor",13,1
+"student behaviour",92,1
+"student data",7,1
+"student model",17,1
+"student model",96,1
+"student perform",82,1
+"student sequence analysi",82,1
+"svm",80,1
+"system safeti",25,1
+"systematic review",56,1
+"tailored gamif",70,1
+"teachable ag",104,1
+"teaching program",66,1
+"teamwork",19,1
+"temporal bone surgeri",8,2
+"temporal reason",45,1
+"test prepar",55,1
+"text classif",101,1
+"text content complex",119,1
+"text min",19,1
+"text min",80,1
+"text min",119,1
+"time",100,1
+"time-gap",100,1
+"time series clust",92,1
+"train",72,1
+"train",78,1
+"transfer learn",13,1
+"transfer learn",54,1
+"transform",60,1
+"transpar",31,1
+"trust",105,1
+"tutor",26,1
+"tutor practic",26,1
+"tutoring system",62,1
+"uniform test form assembl",113,1
+"unsupervised machine learn",7,1
+"user behaviour",70,1
+"user model",70,1
+"user profil",70,1
+"utilization r",79,1
+"vbl",79,1
+"vector space embed",99,1
+"video-based learn",25,1
+"video analysi",52,1
+"video cod",75,1
+"video watching trac",79,1
+"virtual ag",98,1
+"virtual classroom environ",26,1
+"virtual r",49,1
+"virtual reality surgical train",8,2
+"vocational educ",52,1
+"voluntary practic",103,1
+"watch index",79,1
+"willingness to communicate in l2",71,1
+"winne and hadwin model",26,1
+"worked out exampl",83,1
+"write-aloud methodolog",114,1
+"young children",50,1
+"zone of proximal develop",10,1
