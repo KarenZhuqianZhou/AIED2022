@@ -53,7 +53,7 @@ edm.art_au_stem <- select(edm.art_au_stem, -Keyword)
 write.csv(edm.art_au_stem, "edm_art_year_au_stem.csv", row.names = FALSE)
 
 # Change the working directory
-setwd("~/Data/02_SNA")
+setwd("~/Data/03_SNA")
 
 # CoAuthor Adjacency Matricies
 edm.au.1320 <- select(edm.art_au, -Year)

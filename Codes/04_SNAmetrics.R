@@ -41,6 +41,6 @@ lapply(files, function(x) {
   # Create table with summary measures and assign it to Global Environment so loop doesn't overwrite
   table <- cbind(year_name, Authors, Edge_count, Diameter, Avg_Degree, Deg_Centrlz, LCC_frac_size) %>% tbl_df
   assign(paste(metrics_name, year_name, sep = "_"), table, envir = .GlobalEnv)
-  setwd("~/Data/03_SNAmetrics")
+  setwd("~/Data/04_SNAmetrics")
   write.csv(table, file = paste(paste(metrics_name, year_name, sep = "_"), '.csv', sep = ""), row.names = FALSE)
 })

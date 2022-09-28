@@ -56,7 +56,7 @@ lak.art_au_stem <- select(lak.art_au_stem, -Keyword)
 write.csv(lak.art_au_stem, "lak_art_year_au_stem.csv", row.names = FALSE)
 
 # Change the working directory
-setwd("~/Data/02_SNA")
+setwd("~/Data/03_SNA")
 
 # CoAuthor Adjacency Matricies
 lak.au.1320 <- select(lak.art_au, -Year)

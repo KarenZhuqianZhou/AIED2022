@@ -4,15 +4,14 @@ library(CINNA)
 library(dplyr)
 
 #Create list with file names
-p = "~/Data/02_SNA"
+p = "~/Data/03_SNA"
 files <- list.files(path=p, pattern="\\d.csv", full.names=TRUE, recursive=FALSE)
 
-#start function which loops through files, creates graph objects, and summary metrics
+#start function which loops through files and creates graph objects
 lapply(files, function(x) {
   year_name = paste(as.character(str_sub(x,nchar(x)-7, nchar(x)-6)),as.character(str_sub(x,nchar(x)-5, nchar(x)-4)),sep = "_")
   conf_name = str_sub(x,nchar(p)+2,nchar(p)+4)
   net_name = paste(conf_name, "new_net", sep = "_")
-  metrics_name = paste(conf_name, "metrics", sep = "_")
   comm_name = paste(conf_name, "comm", sep = "_")
   
   # Import data 

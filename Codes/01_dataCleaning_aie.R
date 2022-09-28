@@ -62,7 +62,7 @@ art_au_stem <- filter(art_au_stem, Stem != "")
 write.csv(art_au_stem, "aie_art_year_au_stem.csv", row.names = FALSE)
 
 # Change the working directory
-setwd("~/Data/02_SNA")
+setwd("~/Data/03_SNA")
 
 # CoAuthor Adjacency Matricies
 au.1320 <- select(art_au, -Year)

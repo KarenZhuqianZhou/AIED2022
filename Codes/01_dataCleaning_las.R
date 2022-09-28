@@ -54,7 +54,7 @@ lats.art_au_stem <- select(lats.art_au_stem, -Keyword)
 write.csv(lats.art_au_stem, "las_art_year_au_stem.csv", row.names = FALSE)
 
 # Change the working directory
-setwd("~/Data/02_SNA")
+setwd("~/Data/03_SNA")
 
 # CoAuthor Adjacency Matricies
 lats.au.1320 <- select(lats.art_au, -Year)

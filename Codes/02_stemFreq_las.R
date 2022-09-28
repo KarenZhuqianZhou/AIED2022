@@ -31,5 +31,5 @@ las.stemFreq <- left_join(las.stemFreq, las.art_year_stem_1718, by = "Stem")
 las.stemFreq <- left_join(las.stemFreq, las.art_year_stem_1920, by = "Stem")
 las.stemFreq[is.na(las.stemFreq)] <- 0
 
-setwd("~/Data/04_KeywordStem")
+setwd("~/Data/02_KeywordStem")
 write.csv(las.stemFreq, file = "las_stemFreq_13_20.csv", row.names = FALSE)
